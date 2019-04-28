@@ -1,0 +1,3 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	l_BasicBotLuisApplication	105	15.971	44	2	9.622
+1	q_CinemaSampleKB	628	17.795	53	2	7.64

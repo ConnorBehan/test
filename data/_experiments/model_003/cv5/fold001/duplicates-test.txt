@@ -1,0 +1,2 @@
+Utterance	Intents
+good evening	l_BasicBotLuisApplication, q_CinemaSampleKB

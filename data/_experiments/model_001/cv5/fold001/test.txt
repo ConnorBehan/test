@@ -1,0 +1,156 @@
+Label	Weight	Text
+l_BasicBotLuisApplication	21.83333	make camera 1 off please
+l_BasicBotLuisApplication	21.83333	turn the fan to high
+l_BasicBotLuisApplication	21.83333	quit
+l_BasicBotLuisApplication	21.83333	i'm john from cairo
+l_BasicBotLuisApplication	21.83333	living room lamp on please
+l_BasicBotLuisApplication	21.83333	no way
+l_BasicBotLuisApplication	21.83333	i'd rather be riding my bike
+l_BasicBotLuisApplication	21.83333	set lights bright
+l_BasicBotLuisApplication	21.83333	my name is maria and i'm from sydney
+l_BasicBotLuisApplication	21.83333	yo
+l_BasicBotLuisApplication	21.83333	i want 3 tickets for life of pi
+l_BasicBotLuisApplication	21.83333	hello
+l_BasicBotLuisApplication	21.83333	play dvd
+l_BasicBotLuisApplication	21.83333	portland
+l_BasicBotLuisApplication	21.83333	don't do it
+l_BasicBotLuisApplication	21.83333	spaghetti
+l_BasicBotLuisApplication	21.83333	delhi
+l_BasicBotLuisApplication	21.83333	who is your boss
+l_BasicBotLuisApplication	21.83333	book amc theater pekin tickets
+l_BasicBotLuisApplication	21.83333	what can you do
+l_BasicBotLuisApplication	21.83333	who are you
+l_BasicBotLuisApplication	21.83333	good evening
+l_BasicBotLuisApplication	21.83333	help
+l_BasicBotLuisApplication	21.83333	what can i say
+q_CinemaSampleKB	4	Testing 1 2 3
+q_CinemaSampleKB	4	What do you think of me
+q_CinemaSampleKB	4	Do you not like me
+q_CinemaSampleKB	4	Are you female
+q_CinemaSampleKB	4	What country are you in
+q_CinemaSampleKB	4	Say something funny
+q_CinemaSampleKB	4	Yup, that's true
+q_CinemaSampleKB	4	Not funny
+q_CinemaSampleKB	4	Go away
+q_CinemaSampleKB	4	You're so boring
+q_CinemaSampleKB	4	I am here
+q_CinemaSampleKB	4	You're smart
+q_CinemaSampleKB	4	What do you think about AI
+q_CinemaSampleKB	4	Oops, sorry
+q_CinemaSampleKB	4	You are so unfunny
+q_CinemaSampleKB	4	I missed you!
+q_CinemaSampleKB	4	Do you prefer red or blue
+q_CinemaSampleKB	4	Do you believe in love
+q_CinemaSampleKB	4	Are you busy
+q_CinemaSampleKB	4	I'm giving you a pink slip
+q_CinemaSampleKB	4	How's your day going
+q_CinemaSampleKB	4	I miss you
+q_CinemaSampleKB	4	You face sucks
+q_CinemaSampleKB	4	Nope, false
+q_CinemaSampleKB	4	You're not answering my question
+q_CinemaSampleKB	4	I'm so hungry
+q_CinemaSampleKB	4	Sounds good
+q_CinemaSampleKB	4	What do you eat
+q_CinemaSampleKB	4	So tired
+q_CinemaSampleKB	4	Why not
+q_CinemaSampleKB	4	Ha
+q_CinemaSampleKB	4	Can you make me a sandwich
+q_CinemaSampleKB	4	Where should I go on vacation
+q_CinemaSampleKB	4	I am a Democrat
+q_CinemaSampleKB	4	Do you have wireless internet
+q_CinemaSampleKB	4	I love getting valentines
+q_CinemaSampleKB	4	Say something
+q_CinemaSampleKB	4	Give me a joke
+q_CinemaSampleKB	4	You're awful
+q_CinemaSampleKB	4	Are you in a relationship
+q_CinemaSampleKB	4	Why do you think that
+q_CinemaSampleKB	4	Who's your favorite singer
+q_CinemaSampleKB	4	Your face is ugly
+q_CinemaSampleKB	4	When will you shut up
+q_CinemaSampleKB	4	Do you know other digital agents
+q_CinemaSampleKB	4	I thank you
+q_CinemaSampleKB	4	Hello Cortana
+q_CinemaSampleKB	4	I'd like to take you out on a date
+q_CinemaSampleKB	4	I'm bored out of my mind
+q_CinemaSampleKB	4	What state are you in
+q_CinemaSampleKB	4	I'm your biggest fan
+q_CinemaSampleKB	4	You are useless
+q_CinemaSampleKB	4	Who's your master
+q_CinemaSampleKB	4	Tell me a science joke
+q_CinemaSampleKB	4	Can you hear me
+q_CinemaSampleKB	4	You honestly could not be more uninteresting
+q_CinemaSampleKB	4	Back in a minute
+q_CinemaSampleKB	4	You’re ugly
+q_CinemaSampleKB	4	Correct
+q_CinemaSampleKB	4	Be ridiculous
+q_CinemaSampleKB	4	Do you love me
+q_CinemaSampleKB	4	You're no fun
+q_CinemaSampleKB	4	What's your favorite animal
+q_CinemaSampleKB	4	I want to spend the rest of my life with you
+q_CinemaSampleKB	4	What's up
+q_CinemaSampleKB	4	Later
+q_CinemaSampleKB	4	Are you smart
+q_CinemaSampleKB	4	Hello Alexa
+q_CinemaSampleKB	4	How intelligent are you
+q_CinemaSampleKB	4	Am I pretty
+q_CinemaSampleKB	4	I am bored
+q_CinemaSampleKB	4	I am a Republican
+q_CinemaSampleKB	4	Which people made you
+q_CinemaSampleKB	4	Can you sneeze
+q_CinemaSampleKB	4	Be more fun
+q_CinemaSampleKB	4	Do you ever sing
+q_CinemaSampleKB	4	Are you the singularity
+q_CinemaSampleKB	4	What makes you think that
+q_CinemaSampleKB	4	What is wrong with you!
+q_CinemaSampleKB	4	Are you straight
+q_CinemaSampleKB	4	Do you have boogers
+q_CinemaSampleKB	4	Are you hungry
+q_CinemaSampleKB	4	You are now unemployed
+q_CinemaSampleKB	4	Are you a man or a woman
+q_CinemaSampleKB	4	You're rad
+q_CinemaSampleKB	4	Can you hear me now
+q_CinemaSampleKB	4	What are you doing right now
+q_CinemaSampleKB	4	Can we chat
+q_CinemaSampleKB	4	You must hate me
+q_CinemaSampleKB	4	Are you dating anyone
+q_CinemaSampleKB	4	Works for me
+q_CinemaSampleKB	4	I'm into it
+q_CinemaSampleKB	4	You're lame
+q_CinemaSampleKB	4	What do you mean
+q_CinemaSampleKB	4	Do you like Siri
+q_CinemaSampleKB	4	Stop talking
+q_CinemaSampleKB	4	I'm so mad
+q_CinemaSampleKB	4	I'm despondent
+q_CinemaSampleKB	4	I got a new haircut
+q_CinemaSampleKB	4	My sincere thanks
+q_CinemaSampleKB	4	I want you to be my husband
+q_CinemaSampleKB	4	I despise you
+q_CinemaSampleKB	4	Aren't you cheerful
+q_CinemaSampleKB	4	You look ugly
+q_CinemaSampleKB	4	You made no sense
+q_CinemaSampleKB	4	I'm tired of you
+q_CinemaSampleKB	4	Say something dumb
+q_CinemaSampleKB	4	What do you do
+q_CinemaSampleKB	4	What are you
+q_CinemaSampleKB	4	What's your boss' name
+q_CinemaSampleKB	4	Happy Birthday!
+q_CinemaSampleKB	4	Where are you located
+q_CinemaSampleKB	4	Tell me a dirty joke
+q_CinemaSampleKB	4	I wish you would say something else
+q_CinemaSampleKB	4	Do you know any songs
+q_CinemaSampleKB	4	Will you be my best friend
+q_CinemaSampleKB	4	I'm not following
+q_CinemaSampleKB	4	Can I buy sweets, drinks, ice-cream or popcorn
+q_CinemaSampleKB	4	You are no longer employed
+q_CinemaSampleKB	4	Goodbye
+q_CinemaSampleKB	4	You suck
+q_CinemaSampleKB	4	You're really boring
+q_CinemaSampleKB	4	What's going on
+q_CinemaSampleKB	4	That's accurate
+q_CinemaSampleKB	4	What's the meaning of life
+q_CinemaSampleKB	4	Shut up
+q_CinemaSampleKB	4	Getting to the cinema
+q_CinemaSampleKB	4	Are you prettier than me
+q_CinemaSampleKB	4	What do you think about technology
+q_CinemaSampleKB	4	You're gonna be unemployed soon
+q_CinemaSampleKB	4	Who's your daddy

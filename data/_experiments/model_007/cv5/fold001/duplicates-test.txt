@@ -1,0 +1,2 @@
+Utterance	Intents
+getting tired of you	l_l_BasicBotLuisApplication, q_CinemaSampleKB

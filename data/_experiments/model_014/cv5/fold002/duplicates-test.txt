@@ -1,0 +1,3 @@
+Utterance	Intents
+hello	l_MovieBot2-82b0, q_CinemaSampleKB
+are you old	l_MovieBot2-82b0, q_CinemaSampleKB

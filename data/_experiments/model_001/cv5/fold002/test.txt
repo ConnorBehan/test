@@ -1,0 +1,156 @@
+Label	Weight	Text
+l_BasicBotLuisApplication	21.83333	mumbai
+l_BasicBotLuisApplication	21.83333	please cancel
+l_BasicBotLuisApplication	21.83333	how are you
+l_BasicBotLuisApplication	21.83333	i will not give you my location or name
+l_BasicBotLuisApplication	21.83333	hey there
+l_BasicBotLuisApplication	21.83333	can you help me
+l_BasicBotLuisApplication	21.83333	i will not give you my name
+l_BasicBotLuisApplication	21.83333	don't do that
+l_BasicBotLuisApplication	21.83333	my location is new york
+l_BasicBotLuisApplication	21.83333	abort
+l_BasicBotLuisApplication	21.83333	who am i speaking to
+l_BasicBotLuisApplication	21.83333	fish pond off please
+l_BasicBotLuisApplication	21.83333	frustrated
+l_BasicBotLuisApplication	21.83333	living room lamps off please
+l_BasicBotLuisApplication	21.83333	coffee bar on please
+l_BasicBotLuisApplication	21.83333	confused
+l_BasicBotLuisApplication	21.83333	book me a ticket for jurassic world
+l_BasicBotLuisApplication	21.83333	her cat has no teeth
+l_BasicBotLuisApplication	21.83333	you can assume i live in cairo
+l_BasicBotLuisApplication	21.83333	i'm lost
+l_BasicBotLuisApplication	21.83333	who am i speaking with
+l_BasicBotLuisApplication	21.83333	you are boring
+l_BasicBotLuisApplication	21.83333	illuminate please
+l_BasicBotLuisApplication	21.83333	gnocchi
+q_CinemaSampleKB	4	BRB
+q_CinemaSampleKB	4	That made no sense
+q_CinemaSampleKB	4	How happy are you
+q_CinemaSampleKB	4	Who are you
+q_CinemaSampleKB	4	You're not funny
+q_CinemaSampleKB	4	I'm ticked off
+q_CinemaSampleKB	4	I think you're swell
+q_CinemaSampleKB	4	I wish I weren't so alone
+q_CinemaSampleKB	4	What's your opinion of me
+q_CinemaSampleKB	4	Sing a song
+q_CinemaSampleKB	4	Say a joke
+q_CinemaSampleKB	4	Why
+q_CinemaSampleKB	4	Which one of us is smarter
+q_CinemaSampleKB	4	Do you have a Membership scheme
+q_CinemaSampleKB	4	Where is the carpark entrance
+q_CinemaSampleKB	4	What's your mom's name
+q_CinemaSampleKB	4	Having a good day
+q_CinemaSampleKB	4	Nighty night
+q_CinemaSampleKB	4	Are you a guy
+q_CinemaSampleKB	4	I'm in love with you
+q_CinemaSampleKB	4	Great!
+q_CinemaSampleKB	4	What did you do yesterday
+q_CinemaSampleKB	4	I am hungry
+q_CinemaSampleKB	4	Do you know my name
+q_CinemaSampleKB	4	Have a good night
+q_CinemaSampleKB	4	Fist bump!
+q_CinemaSampleKB	4	You are funny :)
+q_CinemaSampleKB	4	Hi Alexa
+q_CinemaSampleKB	4	Are you there
+q_CinemaSampleKB	4	Do you have a family
+q_CinemaSampleKB	4	Who's your dad
+q_CinemaSampleKB	4	I'm so sorry
+q_CinemaSampleKB	4	It's a pleasure to meet you
+q_CinemaSampleKB	4	You're welcome
+q_CinemaSampleKB	4	I think you're so pretty
+q_CinemaSampleKB	4	I want to lie down
+q_CinemaSampleKB	4	Give me a high five
+q_CinemaSampleKB	4	Hello
+q_CinemaSampleKB	4	Kiss me
+q_CinemaSampleKB	4	Tell me a joke
+q_CinemaSampleKB	4	I hope you like me
+q_CinemaSampleKB	4	I adore you
+q_CinemaSampleKB	4	Can we be friends
+q_CinemaSampleKB	4	Are you gay
+q_CinemaSampleKB	4	Quiet, you
+q_CinemaSampleKB	4	What can you help me with
+q_CinemaSampleKB	4	You're the worst
+q_CinemaSampleKB	4	What can you do
+q_CinemaSampleKB	4	Who's your mom
+q_CinemaSampleKB	4	I want you to like me
+q_CinemaSampleKB	4	Are you a girl
+q_CinemaSampleKB	4	Are you a man
+q_CinemaSampleKB	4	Do you like me
+q_CinemaSampleKB	4	Everything you told me was false
+q_CinemaSampleKB	4	Tell a joke
+q_CinemaSampleKB	4	Are you engaged
+q_CinemaSampleKB	4	What is love
+q_CinemaSampleKB	4	Who is your creator
+q_CinemaSampleKB	4	Can I bring outside food and drink to the cinema
+q_CinemaSampleKB	4	Chat with me
+q_CinemaSampleKB	4	Are you dumb
+q_CinemaSampleKB	4	I need a kiss
+q_CinemaSampleKB	4	You bore me
+q_CinemaSampleKB	4	Talk to me
+q_CinemaSampleKB	4	You're hilarious
+q_CinemaSampleKB	4	See you later
+q_CinemaSampleKB	4	Can you sing a song
+q_CinemaSampleKB	4	That's not funny
+q_CinemaSampleKB	4	You don't know anything
+q_CinemaSampleKB	4	Do you have a dad
+q_CinemaSampleKB	4	You're stupid
+q_CinemaSampleKB	4	Cool!
+q_CinemaSampleKB	4	What's new
+q_CinemaSampleKB	4	Do you love anyone
+q_CinemaSampleKB	4	Getting tired of you
+q_CinemaSampleKB	4	Accurate
+q_CinemaSampleKB	4	That wasn't true
+q_CinemaSampleKB	4	You're boring
+q_CinemaSampleKB	4	Are you around
+q_CinemaSampleKB	4	I just want to go to sleep
+q_CinemaSampleKB	4	Do I look okay
+q_CinemaSampleKB	4	You're nice!
+q_CinemaSampleKB	4	You are the love of my life
+q_CinemaSampleKB	4	How are you doing
+q_CinemaSampleKB	4	Are you my assistant
+q_CinemaSampleKB	4	What do you think about Cortana
+q_CinemaSampleKB	4	Do you spend time in your garden
+q_CinemaSampleKB	4	You're not making sense
+q_CinemaSampleKB	4	What kinds of things can you do
+q_CinemaSampleKB	4	Shush!
+q_CinemaSampleKB	4	Hiya
+q_CinemaSampleKB	4	I'm furious
+q_CinemaSampleKB	4	I appreciate it
+q_CinemaSampleKB	4	Who's your boss
+q_CinemaSampleKB	4	I am tired
+q_CinemaSampleKB	4	Can you sing
+q_CinemaSampleKB	4	I beg your pardon
+q_CinemaSampleKB	4	I'm just playing
+q_CinemaSampleKB	4	Pardon me
+q_CinemaSampleKB	4	I like you
+q_CinemaSampleKB	4	That's so wrong
+q_CinemaSampleKB	4	You are my best friend
+q_CinemaSampleKB	4	You're the best
+q_CinemaSampleKB	4	Yup
+q_CinemaSampleKB	4	Sorry about that
+q_CinemaSampleKB	4	Useless
+q_CinemaSampleKB	4	You're funny
+q_CinemaSampleKB	4	Are you my imaginary friend
+q_CinemaSampleKB	4	Are you here
+q_CinemaSampleKB	4	There
+q_CinemaSampleKB	4	How I've missed you
+q_CinemaSampleKB	4	Are there any nice restaurants or pubs nearby
+q_CinemaSampleKB	4	Do you have any other responses
+q_CinemaSampleKB	4	You seem really happy
+q_CinemaSampleKB	4	I can't think of anything I want to do
+q_CinemaSampleKB	4	How do I look today
+q_CinemaSampleKB	4	Are you Skynet
+q_CinemaSampleKB	4	Don't you ever sleep
+q_CinemaSampleKB	4	Are you better looking than me
+q_CinemaSampleKB	4	You keep saying the same thing all the time
+q_CinemaSampleKB	4	Joke's on you
+q_CinemaSampleKB	4	Are you happy
+q_CinemaSampleKB	4	What other bots do you know
+q_CinemaSampleKB	4	Sing a tune
+q_CinemaSampleKB	4	What is a Parent and Baby screening
+q_CinemaSampleKB	4	Heya
+q_CinemaSampleKB	4	That doesn't make sense
+q_CinemaSampleKB	4	Do you like Cortana
+q_CinemaSampleKB	4	Sry
+q_CinemaSampleKB	4	What are you up to
+q_CinemaSampleKB	4	Bye

@@ -1,0 +1,75 @@
+{
+    "name": "MovieBot2",
+    "description": "",
+  "services": [
+    {
+      "type": "abs",
+      "appId": "bee51a93-3b47-4645-909f-63dbc13513d8",
+      "id": "1",
+      "name": "MovieBot2",
+      "resourceGroup": "CinemaBot",
+      "serviceName": "MovieBot2",
+      "subscriptionId": "77e960f2-d7df-4c43-bfa9-dcf1d1c20c9a",
+      "tenantId": "765098ff-f29d-4825-9ae7-55ba8947f63c"
+    },
+    {
+      "type": "blob",
+      "connectionString": "tIx6e2jB6KMPgPUrHfgrgA==!R33CstQWIIAATcn2hNYK/6t1bGta64aF0tbJHzQDOLcCDmZJoQbLUgdTDyPVjVhYtuMWrSGMKL/yKeZBvKAjaDjS6UgobdDKZDPBUsHUmn0/8H+9zKNMCY6RjM5GeiGpiE4iGFSTJpxi4hp/TPI0HCc1LB5HbIR2cighMZkU9kx7pgTRz1Q6fWlFVnKBqyFio1tR7yKvwhqkpXphVVDgng==",
+      "id": "2",
+      "resourceGroup": "CinemaBot",
+      "serviceName": "moviebot282b0",
+      "subscriptionId": "77e960f2-d7df-4c43-bfa9-dcf1d1c20c9a",
+      "tenantId": "765098ff-f29d-4825-9ae7-55ba8947f63c"
+    },
+    {
+      "type": "endpoint",
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "id": "3",
+      "name": "development"
+    },
+    {
+      "type": "endpoint",
+      "appId": "bee51a93-3b47-4645-909f-63dbc13513d8",
+      "appPassword": "fyehBHLS3hfcZPM6713+~{%", //"Dpo0Ut/bEv6g7EJfOLnG4A==!Ms5zE7ErcxHNyFGR7ejxKPY5Zb7Oa5r9Sc8+SwR3Gbk=",
+      "endpoint": "https://moviebot2.azurewebsites.net/api/messages",
+      "id": "4",
+      "region": "westeurope",
+      "name": "production"
+    },
+    {
+      "type": "luis",
+      "appId": "1364079c-5ea1-4087-8a52-b3bf6a0721de",
+      "authoringKey": "af0a1c618c06453998aaf7f8abab3602", //af0a1c618c06453998aaf7f8abab3602 new resource key 1
+      "subscriptionKey": "e58a36d9e3504fb3b49b20ee7426a602", //add new endpoint key here - this is the old key 76fbbcc29aab42b6bd6f514675d8c946 for both fields
+      "id": "5",
+      "name": "MovieBot2-82b0", //l_BasicBotLuisApplication or MovieBot2-82b0",
+      "region": "westeurope",
+      "version": "0.1"
+    },
+    {
+      "type": "qna",
+      "endpointKey": "9441cf01-bd67-4152-8500-fe840e05082e",
+      "hostname": "https://cinemasamplekb.azurewebsites.net/qnamaker",
+      "kbId": "048d3db5-b855-4eaa-8d66-4806850b2243",
+      "name": "CinemaSampleKB",
+      //"region": "westus",
+      "subscriptionKey": "78fad990b2bd4bb3b8d6c35ac2ef8bab",
+      "id": "117"
+    },
+    {
+      "appId": "2bf3f699-b262-4dc3-a93f-e1927efbe4fa", //"2edbb398-199e-42ed-b4e7-2977fe0ce3dd", //5f7fbcbd-a0b2-4bbf-8180-51a4b562732a
+      "authoringKey": "af0a1c618c06453998aaf7f8abab3602", //76fbbcc29aab42b6bd6f514675d8c946
+      "subscriptionKey": "e58a36d9e3504fb3b49b20ee7426a602", //6dd3cbd67f3048bc9742b7516a83ddff
+      "version": "Dispatch",
+      "region": "westeurope",
+      "type": "dispatch",
+      "name": "MovieBot2Dispatch"
+    }
+  ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\conor\\Desktop\\MovieBot\\MovieBot2.bot",
+    "overrides": null
+}

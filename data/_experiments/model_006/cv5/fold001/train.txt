@@ -1,0 +1,615 @@
+Label	Weight	Text
+l_BasicBotLuisApplication	5.395833	dan
+l_BasicBotLuisApplication	5.395833	what are your capabilities
+l_BasicBotLuisApplication	5.395833	can you find movie tickets
+l_BasicBotLuisApplication	5.395833	hello bot
+l_BasicBotLuisApplication	5.395833	can you fly
+l_BasicBotLuisApplication	5.395833	popular movies
+l_BasicBotLuisApplication	5.395833	you are boring
+l_BasicBotLuisApplication	5.395833	available movies
+l_BasicBotLuisApplication	5.395833	hey
+l_BasicBotLuisApplication	5.395833	help
+l_BasicBotLuisApplication	5.395833	i want 3 tickets for life of pi
+l_BasicBotLuisApplication	5.395833	watch trailers
+l_BasicBotLuisApplication	5.395833	have you any dreams
+l_BasicBotLuisApplication	5.395833	book amc theater pekin tickets
+l_BasicBotLuisApplication	5.395833	book tickets for captain america
+l_BasicBotLuisApplication	5.395833	are you busy
+l_BasicBotLuisApplication	5.395833	how are you today
+l_BasicBotLuisApplication	5.395833	no way, i won't give you my location
+l_BasicBotLuisApplication	5.395833	show me popular movies
+l_BasicBotLuisApplication	5.395833	are you old
+l_BasicBotLuisApplication	5.395833	what movies do you have
+l_BasicBotLuisApplication	5.395833	how old are you
+l_BasicBotLuisApplication	5.395833	purchase movie tickets
+l_BasicBotLuisApplication	5.395833	popular new releases
+l_BasicBotLuisApplication	5.395833	i reside in san francisco
+l_BasicBotLuisApplication	5.395833	whats up
+l_BasicBotLuisApplication	5.395833	trailer
+l_BasicBotLuisApplication	5.395833	mumbai
+l_BasicBotLuisApplication	5.395833	watch new movies
+l_BasicBotLuisApplication	5.395833	who are you
+l_BasicBotLuisApplication	5.395833	book movie ticket near my location
+l_BasicBotLuisApplication	5.395833	vishwac is my name
+l_BasicBotLuisApplication	5.395833	i'm stuck
+l_BasicBotLuisApplication	5.395833	delhi
+l_BasicBotLuisApplication	5.395833	i'm lost
+l_BasicBotLuisApplication	5.395833	hey there
+l_BasicBotLuisApplication	5.395833	toronto
+l_BasicBotLuisApplication	5.395833	dont you ever sleep
+l_BasicBotLuisApplication	5.395833	seattle is my current city
+l_BasicBotLuisApplication	5.395833	portland
+l_BasicBotLuisApplication	5.395833	you can call me steve
+l_BasicBotLuisApplication	5.395833	book for me amc tickets
+l_BasicBotLuisApplication	5.395833	quit
+l_BasicBotLuisApplication	5.395833	help please
+l_BasicBotLuisApplication	5.395833	stop
+l_BasicBotLuisApplication	5.395833	i'm bailing
+l_BasicBotLuisApplication	5.395833	frustrated
+l_BasicBotLuisApplication	5.395833	i live in london
+l_BasicBotLuisApplication	5.395833	please stop
+l_BasicBotLuisApplication	5.395833	i will not give you my location or name
+l_BasicBotLuisApplication	5.395833	gnocchi
+l_BasicBotLuisApplication	5.395833	her cat has no teeth
+l_BasicBotLuisApplication	5.395833	tony is my name
+l_BasicBotLuisApplication	5.395833	abort
+l_BasicBotLuisApplication	5.395833	melanie
+l_BasicBotLuisApplication	5.395833	i'm from georgia
+l_BasicBotLuisApplication	5.395833	who am i speaking to
+l_BasicBotLuisApplication	5.395833	get tickets for expendables three
+l_BasicBotLuisApplication	5.395833	my location is new york
+l_BasicBotLuisApplication	5.395833	spaghetti
+l_BasicBotLuisApplication	5.395833	my name is maria and i'm from sydney
+l_BasicBotLuisApplication	5.395833	view movies
+l_BasicBotLuisApplication	5.395833	show me trailers
+l_BasicBotLuisApplication	5.395833	can i see movies that are popular
+l_BasicBotLuisApplication	5.395833	cancel
+l_BasicBotLuisApplication	5.395833	i'm lili
+l_BasicBotLuisApplication	5.395833	what can you do
+l_BasicBotLuisApplication	5.395833	why doesn't this work
+l_BasicBotLuisApplication	5.395833	book me a ticket for jurassic world
+l_BasicBotLuisApplication	5.395833	my name is tom
+l_BasicBotLuisApplication	5.395833	i'm not going to tell you where i live
+l_BasicBotLuisApplication	5.395833	help me
+l_BasicBotLuisApplication	5.395833	confused
+l_BasicBotLuisApplication	5.395833	i would like to cancel
+l_BasicBotLuisApplication	5.395833	i'm lauren, and i'm from madrid
+l_BasicBotLuisApplication	5.395833	hi bot
+l_BasicBotLuisApplication	5.395833	i won't give you my name
+l_BasicBotLuisApplication	5.395833	watch movies
+l_BasicBotLuisApplication	5.395833	what can you help me with
+l_BasicBotLuisApplication	5.395833	i'd rather be riding my bike
+l_BasicBotLuisApplication	5.395833	world wide pants
+l_BasicBotLuisApplication	5.395833	see trailer
+l_BasicBotLuisApplication	5.395833	do you play games
+l_BasicBotLuisApplication	5.395833	i don't understand
+l_BasicBotLuisApplication	5.395833	getting tired of you
+l_BasicBotLuisApplication	5.395833	can you help me
+l_BasicBotLuisApplication	5.395833	please cancel
+l_BasicBotLuisApplication	5.395833	good evening
+l_BasicBotLuisApplication	5.395833	cook me something
+l_BasicBotLuisApplication	5.395833	who am i speaking with
+l_BasicBotLuisApplication	5.395833	you can assume i live in cairo
+l_BasicBotLuisApplication	5.395833	what's your name
+l_BasicBotLuisApplication	5.395833	hello
+l_BasicBotLuisApplication	5.395833	i'm john from cairo
+l_BasicBotLuisApplication	5.395833	hiya
+l_BasicBotLuisApplication	5.395833	i will not give you my name
+q_CinemaSampleKB	1	What happens once I've booked
+q_CinemaSampleKB	1	Are you a fan of country music
+q_CinemaSampleKB	1	I'm afraid I'm gonna have to let you go.
+q_CinemaSampleKB	1	Thank you
+q_CinemaSampleKB	1	Are you there
+q_CinemaSampleKB	1	Do I get a reserved seat
+q_CinemaSampleKB	1	You seem really happy
+q_CinemaSampleKB	1	I adore you
+q_CinemaSampleKB	1	Do you know who I am
+q_CinemaSampleKB	1	Chat with me
+q_CinemaSampleKB	1	Are you really happy
+q_CinemaSampleKB	1	Can you chat with me
+q_CinemaSampleKB	1	Have a good night
+q_CinemaSampleKB	1	You're so funny
+q_CinemaSampleKB	1	You face sucks
+q_CinemaSampleKB	1	Do you ever sing
+q_CinemaSampleKB	1	Works for me
+q_CinemaSampleKB	1	Cook me something
+q_CinemaSampleKB	1	Are you married
+q_CinemaSampleKB	1	Great!
+q_CinemaSampleKB	1	You're the best
+q_CinemaSampleKB	1	I am happy
+q_CinemaSampleKB	1	What do you eat
+q_CinemaSampleKB	1	I'm furious
+q_CinemaSampleKB	1	You are funny :)
+q_CinemaSampleKB	1	When will you shut up
+q_CinemaSampleKB	1	You are now unemployed
+q_CinemaSampleKB	1	Give me another joke
+q_CinemaSampleKB	1	What should I do
+q_CinemaSampleKB	1	Who owns you
+q_CinemaSampleKB	1	Do you think I should ask her out
+q_CinemaSampleKB	1	Can't you change your answers
+q_CinemaSampleKB	1	You're so boring
+q_CinemaSampleKB	1	Do you have brothers
+q_CinemaSampleKB	1	I wish I weren't so alone
+q_CinemaSampleKB	1	Who do you love
+q_CinemaSampleKB	1	Tell me a dirty joke
+q_CinemaSampleKB	1	Good morning
+q_CinemaSampleKB	1	You're gonna be unemployed soon
+q_CinemaSampleKB	1	That doesn't make sense
+q_CinemaSampleKB	1	Who made you
+q_CinemaSampleKB	1	Do you spend time in your garden
+q_CinemaSampleKB	1	BFFs forever
+q_CinemaSampleKB	1	Do you have a girlfriend
+q_CinemaSampleKB	1	How can you help me
+q_CinemaSampleKB	1	Testing 1 2 3
+q_CinemaSampleKB	1	Are you friends with other bots
+q_CinemaSampleKB	1	Do you know me
+q_CinemaSampleKB	1	Fist bump!
+q_CinemaSampleKB	1	I am here
+q_CinemaSampleKB	1	Haha
+q_CinemaSampleKB	1	Is this thing on
+q_CinemaSampleKB	1	Sorry about that
+q_CinemaSampleKB	1	Hum a tune
+q_CinemaSampleKB	1	Tell me a joke
+q_CinemaSampleKB	1	Hold on a sec
+q_CinemaSampleKB	1	Are you male
+q_CinemaSampleKB	1	Where are you from
+q_CinemaSampleKB	1	Do you have a sister
+q_CinemaSampleKB	1	How do I find out more about a film
+q_CinemaSampleKB	1	What do you want to know about me
+q_CinemaSampleKB	1	Don't you get hungry
+q_CinemaSampleKB	1	I'd like to take you out on a date
+q_CinemaSampleKB	1	How are you
+q_CinemaSampleKB	1	Am I good-looking
+q_CinemaSampleKB	1	You made no sense
+q_CinemaSampleKB	1	What do you mean
+q_CinemaSampleKB	1	Are you bisexual
+q_CinemaSampleKB	1	Can we be friends
+q_CinemaSampleKB	1	Who are you
+q_CinemaSampleKB	1	Do you know Siri
+q_CinemaSampleKB	1	That was right
+q_CinemaSampleKB	1	What is up
+q_CinemaSampleKB	1	I wish you would say something else
+q_CinemaSampleKB	1	Merry Christmas
+q_CinemaSampleKB	1	Shush!
+q_CinemaSampleKB	1	Where do you live
+q_CinemaSampleKB	1	You're funny
+q_CinemaSampleKB	1	I am a Democrat
+q_CinemaSampleKB	1	Nighty night
+q_CinemaSampleKB	1	Are you Skynet
+q_CinemaSampleKB	1	I miss you so much!
+q_CinemaSampleKB	1	What are your policies towards the disabled
+q_CinemaSampleKB	1	Are you young
+q_CinemaSampleKB	1	What do you like to eat
+q_CinemaSampleKB	1	What's your gender
+q_CinemaSampleKB	1	What kinds of things can you do
+q_CinemaSampleKB	1	Can you fly
+q_CinemaSampleKB	1	Useless
+q_CinemaSampleKB	1	You're fired!
+q_CinemaSampleKB	1	Do you think you're smarter than me
+q_CinemaSampleKB	1	Do you have a family
+q_CinemaSampleKB	1	Do you like Cortana
+q_CinemaSampleKB	1	Where do you come from
+q_CinemaSampleKB	1	You're so smart
+q_CinemaSampleKB	1	How's your day going
+q_CinemaSampleKB	1	Are you hungry
+q_CinemaSampleKB	1	Give me a kiss
+q_CinemaSampleKB	1	Do you sweat
+q_CinemaSampleKB	1	Where are you
+q_CinemaSampleKB	1	I'm bored out of my mind
+q_CinemaSampleKB	1	Nice to meet you
+q_CinemaSampleKB	1	What's your favorite animal
+q_CinemaSampleKB	1	Hi Google
+q_CinemaSampleKB	1	You are useless
+q_CinemaSampleKB	1	What do you like to sing best
+q_CinemaSampleKB	1	Will you be my wife
+q_CinemaSampleKB	1	Do you like Siri
+q_CinemaSampleKB	1	Thank you so much
+q_CinemaSampleKB	1	You're so stupid
+q_CinemaSampleKB	1	Be more fun
+q_CinemaSampleKB	1	I appreciate it
+q_CinemaSampleKB	1	You're smart
+q_CinemaSampleKB	1	Why do you think that
+q_CinemaSampleKB	1	Who created you
+q_CinemaSampleKB	1	I am tired
+q_CinemaSampleKB	1	You are a genius!
+q_CinemaSampleKB	1	Who is your mother
+q_CinemaSampleKB	1	Can you sing
+q_CinemaSampleKB	1	I'm a fan
+q_CinemaSampleKB	1	Why are you so boring
+q_CinemaSampleKB	1	Are you a girl or a boy
+q_CinemaSampleKB	1	It's a pleasure to meet you
+q_CinemaSampleKB	1	How are things
+q_CinemaSampleKB	1	Are you prettier than me
+q_CinemaSampleKB	1	You're lame
+q_CinemaSampleKB	1	Are you real or fake
+q_CinemaSampleKB	1	Say a joke
+q_CinemaSampleKB	1	Everything you told me was false
+q_CinemaSampleKB	1	What's your age
+q_CinemaSampleKB	1	Back in a minute
+q_CinemaSampleKB	1	Inaccurate
+q_CinemaSampleKB	1	Aren't you cheerful
+q_CinemaSampleKB	1	How high can you count
+q_CinemaSampleKB	1	Do you know any songs
+q_CinemaSampleKB	1	Why don't you ever stop talking
+q_CinemaSampleKB	1	What other jokes can you tell
+q_CinemaSampleKB	1	Be funny
+q_CinemaSampleKB	1	Bingo
+q_CinemaSampleKB	1	I want to lay down
+q_CinemaSampleKB	1	I beg your pardon
+q_CinemaSampleKB	1	Having a good day
+q_CinemaSampleKB	1	I'm joyous
+q_CinemaSampleKB	1	Good evening
+q_CinemaSampleKB	1	That's right
+q_CinemaSampleKB	1	What did you do today
+q_CinemaSampleKB	1	Good night
+q_CinemaSampleKB	1	Are you pansexual
+q_CinemaSampleKB	1	Hi Alexa
+q_CinemaSampleKB	1	I want to marry you.
+q_CinemaSampleKB	1	How was your day
+q_CinemaSampleKB	1	Do you play games
+q_CinemaSampleKB	1	Yup
+q_CinemaSampleKB	1	Where are you located
+q_CinemaSampleKB	1	That's true
+q_CinemaSampleKB	1	Do you know any tunes
+q_CinemaSampleKB	1	What's your job
+q_CinemaSampleKB	1	Are you my imaginary friend
+q_CinemaSampleKB	1	Happy Birthday!
+q_CinemaSampleKB	1	What country are you from
+q_CinemaSampleKB	1	I'm sorry
+q_CinemaSampleKB	1	Are you in love with me
+q_CinemaSampleKB	1	Are you human
+q_CinemaSampleKB	1	Love you!
+q_CinemaSampleKB	1	Who's your favorite team
+q_CinemaSampleKB	1	Do you not like me
+q_CinemaSampleKB	1	Do you smell
+q_CinemaSampleKB	1	I am not your friend
+q_CinemaSampleKB	1	Why
+q_CinemaSampleKB	1	Yes
+q_CinemaSampleKB	1	Are you a woman
+q_CinemaSampleKB	1	Sing a song
+q_CinemaSampleKB	1	What's the name of your boss
+q_CinemaSampleKB	1	What other bots do you know
+q_CinemaSampleKB	1	You are so unfunny
+q_CinemaSampleKB	1	Be silly
+q_CinemaSampleKB	1	You're the worst
+q_CinemaSampleKB	1	What's your favorite movie
+q_CinemaSampleKB	1	Do you know other digital agents
+q_CinemaSampleKB	1	Are you around
+q_CinemaSampleKB	1	I can't think of anything I want to do
+q_CinemaSampleKB	1	I didn't mean that
+q_CinemaSampleKB	1	Hiya
+q_CinemaSampleKB	1	Are you smarter than me
+q_CinemaSampleKB	1	You're stupid
+q_CinemaSampleKB	1	Are you male or female
+q_CinemaSampleKB	1	That made no sense
+q_CinemaSampleKB	1	There
+q_CinemaSampleKB	1	Hi
+q_CinemaSampleKB	1	What do you even mean by that
+q_CinemaSampleKB	1	What country are you in
+q_CinemaSampleKB	1	I wish you just go away.
+q_CinemaSampleKB	1	Hello
+q_CinemaSampleKB	1	Are you a lesbian
+q_CinemaSampleKB	1	What do you think about Cortana
+q_CinemaSampleKB	1	Do you dream
+q_CinemaSampleKB	1	Don't you ever sleep
+q_CinemaSampleKB	1	Be my friend
+q_CinemaSampleKB	1	I am going on a run
+q_CinemaSampleKB	1	Hi there!
+q_CinemaSampleKB	1	Do you have a mom
+q_CinemaSampleKB	1	You are my best friend
+q_CinemaSampleKB	1	What's your favorite food
+q_CinemaSampleKB	1	I thank you
+q_CinemaSampleKB	1	That's awesome
+q_CinemaSampleKB	1	Are you engaged
+q_CinemaSampleKB	1	How much are the tickets
+q_CinemaSampleKB	1	Do you like baseball
+q_CinemaSampleKB	1	Do you think I should ask him out
+q_CinemaSampleKB	1	You're really smart
+q_CinemaSampleKB	1	When were you born
+q_CinemaSampleKB	1	Why not
+q_CinemaSampleKB	1	You're hilarious
+q_CinemaSampleKB	1	Ha
+q_CinemaSampleKB	1	Are you in a relationship
+q_CinemaSampleKB	1	Do you have a dad
+q_CinemaSampleKB	1	That's inaccurate
+q_CinemaSampleKB	1	Where's your house
+q_CinemaSampleKB	1	You seem happy
+q_CinemaSampleKB	1	What's your mom's name
+q_CinemaSampleKB	1	Can I buy a monthly/annual pass
+q_CinemaSampleKB	1	What's my name
+q_CinemaSampleKB	1	I love getting valentines
+q_CinemaSampleKB	1	How do you feel about working late
+q_CinemaSampleKB	1	I'm so lonely
+q_CinemaSampleKB	1	Where should I go on vacation
+q_CinemaSampleKB	1	You're very intelligent
+q_CinemaSampleKB	1	Do you sing
+q_CinemaSampleKB	1	You can't work for me anymore
+q_CinemaSampleKB	1	Later
+q_CinemaSampleKB	1	Are you asexual
+q_CinemaSampleKB	1	I want to spend the rest of my life with you
+q_CinemaSampleKB	1	You're welcome
+q_CinemaSampleKB	1	Look at how smart you are
+q_CinemaSampleKB	1	What do you think about love
+q_CinemaSampleKB	1	Accurate
+q_CinemaSampleKB	1	Thanks
+q_CinemaSampleKB	1	Correct
+q_CinemaSampleKB	1	What are you doing
+q_CinemaSampleKB	1	You're really boring
+q_CinemaSampleKB	1	You are awesome!
+q_CinemaSampleKB	1	What do you think about AI
+q_CinemaSampleKB	1	Are you old
+q_CinemaSampleKB	1	Are you HAL
+q_CinemaSampleKB	1	Am I pretty
+q_CinemaSampleKB	1	Who's your boss
+q_CinemaSampleKB	1	Are you a man or a woman
+q_CinemaSampleKB	1	Talk to you later
+q_CinemaSampleKB	1	Hello Alexa
+q_CinemaSampleKB	1	You seem really smart
+q_CinemaSampleKB	1	What were you doing yesterday
+q_CinemaSampleKB	1	Do you have a name
+q_CinemaSampleKB	1	Who's your daddy
+q_CinemaSampleKB	1	Ask me a question
+q_CinemaSampleKB	1	My sincere thanks
+q_CinemaSampleKB	1	Have you ever sung a song
+q_CinemaSampleKB	1	You're useless
+q_CinemaSampleKB	1	I want you to like me
+q_CinemaSampleKB	1	Are you gay
+q_CinemaSampleKB	1	Who's your favorite singer
+q_CinemaSampleKB	1	BRB
+q_CinemaSampleKB	1	What do you think of me
+q_CinemaSampleKB	1	I am tall
+q_CinemaSampleKB	1	Who am I
+q_CinemaSampleKB	1	I'm giving you a pink slip
+q_CinemaSampleKB	1	Hello Cortana
+q_CinemaSampleKB	1	Tell a joke
+q_CinemaSampleKB	1	Thnx
+q_CinemaSampleKB	1	I'm in such a good mood
+q_CinemaSampleKB	1	I'm feeling blue
+q_CinemaSampleKB	1	See you later
+q_CinemaSampleKB	1	You're way off
+q_CinemaSampleKB	1	I feel so great
+q_CinemaSampleKB	1	How I've missed you
+q_CinemaSampleKB	1	You're not answering my question
+q_CinemaSampleKB	1	ROFL
+q_CinemaSampleKB	1	What's your favorite song
+q_CinemaSampleKB	1	I want you to be my husband
+q_CinemaSampleKB	1	Zip it!
+q_CinemaSampleKB	1	Do you and Cortana hang out
+q_CinemaSampleKB	1	That wasn't true
+q_CinemaSampleKB	1	Why do you charge a booking fee
+q_CinemaSampleKB	1	Are you a man
+q_CinemaSampleKB	1	Are you happy
+q_CinemaSampleKB	1	That's not accurate
+q_CinemaSampleKB	1	Which one of us is more beautiful
+q_CinemaSampleKB	1	You're not making sense
+q_CinemaSampleKB	1	Morning
+q_CinemaSampleKB	1	What's new
+q_CinemaSampleKB	1	I'm from there
+q_CinemaSampleKB	1	Tell me how much you love me
+q_CinemaSampleKB	1	What's the meaning of life
+q_CinemaSampleKB	1	What do you do
+q_CinemaSampleKB	1	I am a Republican
+q_CinemaSampleKB	1	Are you busy
+q_CinemaSampleKB	1	Say something
+q_CinemaSampleKB	1	I need a hug
+q_CinemaSampleKB	1	I love New York
+q_CinemaSampleKB	1	Omg sorry
+q_CinemaSampleKB	1	Give me a fist bump
+q_CinemaSampleKB	1	How long ago were you born
+q_CinemaSampleKB	1	I'm an engineer
+q_CinemaSampleKB	1	That's not funny
+q_CinemaSampleKB	1	Go away
+q_CinemaSampleKB	1	Do you have any other responses
+q_CinemaSampleKB	1	Do you have a wife
+q_CinemaSampleKB	1	Sing something
+q_CinemaSampleKB	1	Good night to you
+q_CinemaSampleKB	1	I am alone
+q_CinemaSampleKB	1	Will you be my best friend
+q_CinemaSampleKB	1	Hi Cortana
+q_CinemaSampleKB	1	Who's smarter, me or you
+q_CinemaSampleKB	1	Do you have a husband
+q_CinemaSampleKB	1	I'm so sad
+q_CinemaSampleKB	1	Can you sing a song
+q_CinemaSampleKB	1	Hello Siri
+q_CinemaSampleKB	1	I'm so sorry
+q_CinemaSampleKB	1	How happy are you
+q_CinemaSampleKB	1	You're boring
+q_CinemaSampleKB	1	Are you a robot
+q_CinemaSampleKB	1	I'm chewing gum right now
+q_CinemaSampleKB	1	Ask me anything
+q_CinemaSampleKB	1	Are you here
+q_CinemaSampleKB	1	Do you want to rule the world
+q_CinemaSampleKB	1	Hello Google
+q_CinemaSampleKB	1	I think you're dreamy
+q_CinemaSampleKB	1	Say something funny
+q_CinemaSampleKB	1	Do you like computers
+q_CinemaSampleKB	1	Pardon me
+q_CinemaSampleKB	1	So sorry
+q_CinemaSampleKB	1	What do you think about technology
+q_CinemaSampleKB	1	Can you talk to me
+q_CinemaSampleKB	1	Be quiet
+q_CinemaSampleKB	1	I got a new haircut
+q_CinemaSampleKB	1	Say something ridiculous
+q_CinemaSampleKB	1	Can you sneeze
+q_CinemaSampleKB	1	I am hungry
+q_CinemaSampleKB	1	You're dumb
+q_CinemaSampleKB	1	When do you send out the weekly film times email
+q_CinemaSampleKB	1	Do I look good in blue
+q_CinemaSampleKB	1	I think you're so pretty
+q_CinemaSampleKB	1	I just want to go to sleep
+q_CinemaSampleKB	1	Kthx
+q_CinemaSampleKB	1	Good evening to you
+q_CinemaSampleKB	1	You are the love of my life
+q_CinemaSampleKB	1	I want to go shopping
+q_CinemaSampleKB	1	Why can’t I book more than a week in advance
+q_CinemaSampleKB	1	You're so cool
+q_CinemaSampleKB	1	That wasn't funny
+q_CinemaSampleKB	1	High five!
+q_CinemaSampleKB	1	I miss you
+q_CinemaSampleKB	1	What is love
+q_CinemaSampleKB	1	What is wrong with you!
+q_CinemaSampleKB	1	What's wrong with you
+q_CinemaSampleKB	1	Am I a good person
+q_CinemaSampleKB	1	Do you know any other jokes
+q_CinemaSampleKB	1	Heya
+q_CinemaSampleKB	1	Can I take a baby into the cinema
+q_CinemaSampleKB	1	Why do you say the same thing all the time
+q_CinemaSampleKB	1	Are you better looking than me
+q_CinemaSampleKB	1	Why is that
+q_CinemaSampleKB	1	Can you sleep
+q_CinemaSampleKB	1	You are no longer employed
+q_CinemaSampleKB	1	Sounds good
+q_CinemaSampleKB	1	Here I am
+q_CinemaSampleKB	1	Are you my friend
+q_CinemaSampleKB	1	Quiet, you
+q_CinemaSampleKB	1	Do you hate me
+q_CinemaSampleKB	1	Why do you hate me
+q_CinemaSampleKB	1	Joke's on you
+q_CinemaSampleKB	1	What are you up to
+q_CinemaSampleKB	1	I love my family
+q_CinemaSampleKB	1	Do you know Google
+q_CinemaSampleKB	1	Here's a kiss for you
+q_CinemaSampleKB	1	That's so wrong
+q_CinemaSampleKB	1	How beautiful am i
+q_CinemaSampleKB	1	What makes you think that
+q_CinemaSampleKB	1	How old are you
+q_CinemaSampleKB	1	Say something dumb
+q_CinemaSampleKB	1	Do you know Cortana
+q_CinemaSampleKB	1	I think you're great
+q_CinemaSampleKB	1	Tell me a different joke.
+q_CinemaSampleKB	1	Who is your creator
+q_CinemaSampleKB	1	Nobody cares about me
+q_CinemaSampleKB	1	Are you real
+q_CinemaSampleKB	1	Which baseball teams do you like
+q_CinemaSampleKB	1	Do you know the meaning of life
+q_CinemaSampleKB	1	Aren't you chipper
+q_CinemaSampleKB	1	Human or robot
+q_CinemaSampleKB	1	You're wonderful
+q_CinemaSampleKB	1	I hope you like me
+q_CinemaSampleKB	1	I hate you
+q_CinemaSampleKB	1	I'm ready for bed
+q_CinemaSampleKB	1	Happy Hannukah
+q_CinemaSampleKB	1	So tired
+q_CinemaSampleKB	1	You are so annoying!
+q_CinemaSampleKB	1	I love music
+q_CinemaSampleKB	1	I want to be your friend.
+q_CinemaSampleKB	1	I have 7 cats
+q_CinemaSampleKB	1	I'm in love with you
+q_CinemaSampleKB	1	I'm so hungry
+q_CinemaSampleKB	1	Hi Siri
+q_CinemaSampleKB	1	I want to eat something
+q_CinemaSampleKB	1	Go to hell
+q_CinemaSampleKB	1	Can you ask me a question
+q_CinemaSampleKB	1	Are you my fan
+q_CinemaSampleKB	1	You keep saying the same thing all the time
+q_CinemaSampleKB	1	I am annoyed
+q_CinemaSampleKB	1	What did you do yesterday
+q_CinemaSampleKB	1	Do you like apples
+q_CinemaSampleKB	1	Hug me
+q_CinemaSampleKB	1	I think you're swell
+q_CinemaSampleKB	1	I'm lonely
+q_CinemaSampleKB	1	Life is good
+q_CinemaSampleKB	1	Do you have sisters
+q_CinemaSampleKB	1	Are you awesome
+q_CinemaSampleKB	1	Oops, sorry
+q_CinemaSampleKB	1	I love you.
+q_CinemaSampleKB	1	What do you think about Alexa
+q_CinemaSampleKB	1	It's really nice to meet you
+q_CinemaSampleKB	1	Testing
+q_CinemaSampleKB	1	I'm tired
+q_CinemaSampleKB	1	I'm ticked off
+q_CinemaSampleKB	1	Do you eat
+q_CinemaSampleKB	1	Do you get hungry
+q_CinemaSampleKB	1	What do the different film classifications mean
+q_CinemaSampleKB	1	LOL
+q_CinemaSampleKB	1	Do you have boogers
+q_CinemaSampleKB	1	Night
+q_CinemaSampleKB	1	It's my pleasure
+q_CinemaSampleKB	1	What is the answer to the universe
+q_CinemaSampleKB	1	What kind of food do you like
+q_CinemaSampleKB	1	Hahaha
+q_CinemaSampleKB	1	I'm in love
+q_CinemaSampleKB	1	What's your favorite color
+q_CinemaSampleKB	1	Are you a fan of Alexa
+q_CinemaSampleKB	1	How are you doing
+q_CinemaSampleKB	1	Do you ever get hungry
+q_CinemaSampleKB	1	You bore me
+q_CinemaSampleKB	1	Goodbye
+q_CinemaSampleKB	1	Are you queer
+q_CinemaSampleKB	1	What's going on
+q_CinemaSampleKB	1	What state are you from
+q_CinemaSampleKB	1	What's your name
+q_CinemaSampleKB	1	I'm despondent
+q_CinemaSampleKB	1	I wish I could hug you
+q_CinemaSampleKB	1	Should I get a new job
+q_CinemaSampleKB	1	Do you get tired
+q_CinemaSampleKB	1	You're such a smarty-pants
+q_CinemaSampleKB	1	Which people made you
+q_CinemaSampleKB	1	Are you free
+q_CinemaSampleKB	1	There's nothing to do
+q_CinemaSampleKB	1	I'm so sleepy
+q_CinemaSampleKB	1	How much more awesome can you get
+q_CinemaSampleKB	1	I'm famished
+q_CinemaSampleKB	1	How are you today
+q_CinemaSampleKB	1	Are you my assistant
+q_CinemaSampleKB	1	Tell me a pirate joke
+q_CinemaSampleKB	1	I'm all tuckered out
+q_CinemaSampleKB	1	What kind of candy do you like
+q_CinemaSampleKB	1	I'm so bored
+q_CinemaSampleKB	1	What do you think about me
+q_CinemaSampleKB	1	I like you
+q_CinemaSampleKB	1	I'm so glad to meet you
+q_CinemaSampleKB	1	I am doing that
+q_CinemaSampleKB	1	Stop talking
+q_CinemaSampleKB	1	I can drive a car
+q_CinemaSampleKB	1	Season's greetings!
+q_CinemaSampleKB	1	I'm tired of you
+q_CinemaSampleKB	1	You honestly could not be more uninteresting
+q_CinemaSampleKB	1	You're rad
+q_CinemaSampleKB	1	Do you know other chatbots
+q_CinemaSampleKB	1	You don't know anything
+q_CinemaSampleKB	1	Who's your dad
+q_CinemaSampleKB	1	Can you hear me
+q_CinemaSampleKB	1	Are you straight
+q_CinemaSampleKB	1	What's your boss' name
+q_CinemaSampleKB	1	Do I look okay
+q_CinemaSampleKB	1	No, that's not true
+q_CinemaSampleKB	1	What do you think about bots
+q_CinemaSampleKB	1	Basic af
+q_CinemaSampleKB	1	Who's your mom
+q_CinemaSampleKB	1	Till we meet again
+q_CinemaSampleKB	1	Are you a boy
+q_CinemaSampleKB	1	Be ridiculous
+q_CinemaSampleKB	1	Do you like me
+q_CinemaSampleKB	1	I will be back
+q_CinemaSampleKB	1	Excuse me
+q_CinemaSampleKB	1	I'm not following
+q_CinemaSampleKB	1	Say something stupid
+q_CinemaSampleKB	1	Can you say anything else
+q_CinemaSampleKB	1	Shut up
+q_CinemaSampleKB	1	You're so happy
+q_CinemaSampleKB	1	What's your dad's name
+q_CinemaSampleKB	1	Are you dating anyone
+q_CinemaSampleKB	1	Where did you come from
+q_CinemaSampleKB	1	Do you prefer red or blue
+q_CinemaSampleKB	1	That's accurate
+q_CinemaSampleKB	1	What can you do
+q_CinemaSampleKB	1	I am angry
+q_CinemaSampleKB	1	What's your opinion of me
+q_CinemaSampleKB	1	Do you know my name
+q_CinemaSampleKB	1	Do you love anyone
+q_CinemaSampleKB	1	Are you female
+q_CinemaSampleKB	1	Do you think I look good
+q_CinemaSampleKB	1	What can you help me with
+q_CinemaSampleKB	1	Give me a high five
+q_CinemaSampleKB	1	You’re ugly
+q_CinemaSampleKB	1	You're right.
+q_CinemaSampleKB	1	That's hilarious
+q_CinemaSampleKB	1	You look ugly
+q_CinemaSampleKB	1	Who's your master
+q_CinemaSampleKB	1	Are you trans
+q_CinemaSampleKB	1	I feel sad
+q_CinemaSampleKB	1	Getting tired of you
+q_CinemaSampleKB	1	You don't interest me at all
+q_CinemaSampleKB	1	Are you smart
+q_CinemaSampleKB	1	What age are you

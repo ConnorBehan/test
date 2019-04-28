@@ -1,0 +1,1381 @@
+{
+  "luis_schema_version": "3.2.0",
+  "versionId": "0.1",
+  "name": "MovieBot2-82b0",
+  "desc": "A BotBuilder generated bot",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "ActionMovies"
+    },
+    {
+      "name": "Cancel"
+    },
+    {
+      "name": "ComedyMovies"
+    },
+    {
+      "name": "FamilyMovies"
+    },
+    {
+      "name": "Greeting"
+    },
+    {
+      "name": "Help"
+    },
+    {
+      "name": "HorrorMovies"
+    },
+    {
+      "name": "MovieGenres"
+    },
+    {
+      "name": "MovieID"
+    },
+    {
+      "name": "MovieTickets.Book",
+      "inherits": {
+        "domain_name": "MovieTickets",
+        "model_name": "Book"
+      }
+    },
+    {
+      "name": "MovieTimes"
+    },
+    {
+      "name": "NewMovies"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "PopularMovies"
+    },
+    {
+      "name": "RomanceMovies"
+    },
+    {
+      "name": "ShowMovieTimes"
+    },
+    {
+      "name": "Trailer"
+    },
+    {
+      "name": "UpcomingMovies"
+    }
+  ],
+  "entities": [
+    {
+      "name": "userLocation",
+      "roles": []
+    },
+    {
+      "name": "userName",
+      "roles": []
+    }
+  ],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [
+    {
+      "name": "userLocation_patternAny",
+      "roles": [],
+      "explicitList": []
+    },
+    {
+      "name": "userName_patternAny",
+      "roles": [],
+      "explicitList": []
+    }
+  ],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [
+    {
+      "pattern": "{userName_patternAny} is my name",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "i live in {userLocation_patternAny}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "my name is {userName_patternAny}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "{userName_patternAny}.",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "my name is {userName_patternAny} and i'm from {userLocation_patternAny}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "some people call me {userName_patternAny}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "{userLocation_patternAny} is where i live",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "call me {userName_patternAny}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "i'm {userName_patternAny}[,] [and i'm] from {userLocation_patternAny}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "i reside in {userLocation_patternAny}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "i'm from {userLocation_patternAny}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "i'm {userName_patternAny}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "you can assume i live in {userLocation_patternAny}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "you can call me {userName_patternAny}",
+      "intent": "Greeting"
+    }
+  ],
+  "utterances": [
+    {
+      "text": "?",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "abort",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "action genre",
+      "intent": "ActionMovies",
+      "entities": []
+    },
+    {
+      "text": "action movies",
+      "intent": "ActionMovies",
+      "entities": []
+    },
+    {
+      "text": "are you busy?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "are you old?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "available movies",
+      "intent": "NewMovies",
+      "entities": []
+    },
+    {
+      "text": "book amc theater pekin tickets",
+      "intent": "MovieTickets.Book",
+      "entities": []
+    },
+    {
+      "text": "book for me amc tickets",
+      "intent": "MovieTickets.Book",
+      "entities": []
+    },
+    {
+      "text": "book me a ticket for jurassic world",
+      "intent": "MovieTickets.Book",
+      "entities": []
+    },
+    {
+      "text": "book movie ticket near my location",
+      "intent": "MovieTickets.Book",
+      "entities": []
+    },
+    {
+      "text": "book tickets for captain america",
+      "intent": "MovieTickets.Book",
+      "entities": []
+    },
+    {
+      "text": "call me scott",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 8,
+          "endPos": 12
+        }
+      ]
+    },
+    {
+      "text": "can i see movies that are popular",
+      "intent": "PopularMovies",
+      "entities": []
+    },
+    {
+      "text": "can you find movie tickets",
+      "intent": "MovieTickets.Book",
+      "entities": []
+    },
+    {
+      "text": "can you fly?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "can you help me",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "cancel",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "childrens movies",
+      "intent": "FamilyMovies",
+      "entities": []
+    },
+    {
+      "text": "cinema id: 10181",
+      "intent": "ShowMovieTimes",
+      "entities": []
+    },
+    {
+      "text": "cinema id: 10585",
+      "intent": "ShowMovieTimes",
+      "entities": []
+    },
+    {
+      "text": "cinema id: 10698",
+      "intent": "ShowMovieTimes",
+      "entities": []
+    },
+    {
+      "text": "cinema id: 7513",
+      "intent": "ShowMovieTimes",
+      "entities": []
+    },
+    {
+      "text": "cinema id: 9352",
+      "intent": "ShowMovieTimes",
+      "entities": []
+    },
+    {
+      "text": "cinema id: 9690",
+      "intent": "ShowMovieTimes",
+      "entities": []
+    },
+    {
+      "text": "cinema id: 9691",
+      "intent": "ShowMovieTimes",
+      "entities": []
+    },
+    {
+      "text": "cinema id: 9694",
+      "intent": "ShowMovieTimes",
+      "entities": []
+    },
+    {
+      "text": "cinema id: 9696",
+      "intent": "ShowMovieTimes",
+      "entities": []
+    },
+    {
+      "text": "cinema id: 9698",
+      "intent": "ShowMovieTimes",
+      "entities": []
+    },
+    {
+      "text": "comedies",
+      "intent": "ComedyMovies",
+      "entities": []
+    },
+    {
+      "text": "comedy genre",
+      "intent": "ComedyMovies",
+      "entities": []
+    },
+    {
+      "text": "comedy movies",
+      "intent": "ComedyMovies",
+      "entities": []
+    },
+    {
+      "text": "confused",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "cook me something",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "dan",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "delhi",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 0,
+          "endPos": 4
+        }
+      ]
+    },
+    {
+      "text": "dhaka",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 0,
+          "endPos": 4
+        }
+      ]
+    },
+    {
+      "text": "do you play games?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "don't do it",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "don't do that",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "dont you ever sleep?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "family genre",
+      "intent": "FamilyMovies",
+      "entities": []
+    },
+    {
+      "text": "family movies",
+      "intent": "FamilyMovies",
+      "entities": []
+    },
+    {
+      "text": "fighting movies",
+      "intent": "ActionMovies",
+      "entities": []
+    },
+    {
+      "text": "frustrated",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "funny movies",
+      "intent": "ComedyMovies",
+      "entities": []
+    },
+    {
+      "text": "genre action",
+      "intent": "ActionMovies",
+      "entities": []
+    },
+    {
+      "text": "genre comedy",
+      "intent": "ComedyMovies",
+      "entities": []
+    },
+    {
+      "text": "genre family",
+      "intent": "FamilyMovies",
+      "entities": []
+    },
+    {
+      "text": "genre for action movies",
+      "intent": "ActionMovies",
+      "entities": []
+    },
+    {
+      "text": "genre for horror movies",
+      "intent": "HorrorMovies",
+      "entities": []
+    },
+    {
+      "text": "genre horror",
+      "intent": "HorrorMovies",
+      "entities": []
+    },
+    {
+      "text": "genre romance",
+      "intent": "RomanceMovies",
+      "entities": []
+    },
+    {
+      "text": "genres",
+      "intent": "MovieGenres",
+      "entities": []
+    },
+    {
+      "text": "get tickets for expendables three",
+      "intent": "MovieTickets.Book",
+      "entities": []
+    },
+    {
+      "text": "getting tired of you",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "gnocchi",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "good evening",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "good morning",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "gun movies",
+      "intent": "ActionMovies",
+      "entities": []
+    },
+    {
+      "text": "have you any dreams?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hello bot",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "help",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "help me",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "help please",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "her cat has no teeth",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hey",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hey there",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hi bot",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hiya",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "horror genre",
+      "intent": "HorrorMovies",
+      "entities": []
+    },
+    {
+      "text": "horror movies",
+      "intent": "HorrorMovies",
+      "entities": []
+    },
+    {
+      "text": "how are you",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "how are you today",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "how do i interact with you",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "how old are you?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i am tired of you",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i don't understand",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "i live in london",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 10,
+          "endPos": 15
+        }
+      ]
+    },
+    {
+      "text": "i reside in san francisco",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 12,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "i want 3 tickets for life of pi",
+      "intent": "MovieTickets.Book",
+      "entities": []
+    },
+    {
+      "text": "i will not give you my location or name",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "i will not give you my name",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "i won't give you my name",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "i would like to cancel",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "i'd rather be riding my bike",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i'm bailing",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "i'm from georgia",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 9,
+          "endPos": 15
+        }
+      ]
+    },
+    {
+      "text": "i'm john from cairo",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 4,
+          "endPos": 7
+        },
+        {
+          "entity": "userLocation",
+          "startPos": 14,
+          "endPos": 18
+        }
+      ]
+    },
+    {
+      "text": "i'm lauren, and i'm from madrid",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 4,
+          "endPos": 9
+        },
+        {
+          "entity": "userLocation",
+          "startPos": 25,
+          "endPos": 30
+        }
+      ]
+    },
+    {
+      "text": "i'm lili",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 4,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "i'm lost",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "i'm not going to tell you where i live",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "i'm stuck",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "lost",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "love genre",
+      "intent": "RomanceMovies",
+      "entities": []
+    },
+    {
+      "text": "love movies",
+      "intent": "RomanceMovies",
+      "entities": []
+    },
+    {
+      "text": "melanie",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 0,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "moves that are funny",
+      "intent": "ComedyMovies",
+      "entities": []
+    },
+    {
+      "text": "movie genre",
+      "intent": "MovieGenres",
+      "entities": []
+    },
+    {
+      "text": "movie genres",
+      "intent": "MovieGenres",
+      "entities": []
+    },
+    {
+      "text": "movie id 166428",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 287947",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 299534",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 299536",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 299537",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 324857",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 329996",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 411728",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 424783",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 450465",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 456740",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 458253",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 458723",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 464504",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 485811",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 495925",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 522681",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 543103",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 543540",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie id 920",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movie reviews",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movieid",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movieid:",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "movies for kids",
+      "intent": "FamilyMovies",
+      "entities": []
+    },
+    {
+      "text": "movies that are comedy",
+      "intent": "ComedyMovies",
+      "entities": []
+    },
+    {
+      "text": "movies that are for families",
+      "intent": "FamilyMovies",
+      "entities": []
+    },
+    {
+      "text": "movies that are romance",
+      "intent": "RomanceMovies",
+      "entities": []
+    },
+    {
+      "text": "movies that are romantic",
+      "intent": "RomanceMovies",
+      "entities": []
+    },
+    {
+      "text": "movies that are scary",
+      "intent": "HorrorMovies",
+      "entities": []
+    },
+    {
+      "text": "movies that have just been released",
+      "intent": "UpcomingMovies",
+      "entities": []
+    },
+    {
+      "text": "mumbai",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 0,
+          "endPos": 5
+        }
+      ]
+    },
+    {
+      "text": "my location is new york",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 15,
+          "endPos": 22
+        }
+      ]
+    },
+    {
+      "text": "my name is maria and i'm from sydney",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 11,
+          "endPos": 15
+        },
+        {
+          "entity": "userLocation",
+          "startPos": 30,
+          "endPos": 35
+        }
+      ]
+    },
+    {
+      "text": "my name is tom",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 11,
+          "endPos": 13
+        }
+      ]
+    },
+    {
+      "text": "new movie",
+      "intent": "NewMovies",
+      "entities": []
+    },
+    {
+      "text": "new releases",
+      "intent": "UpcomingMovies",
+      "entities": []
+    },
+    {
+      "text": "no way",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "no way, i won't give you my location",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "paris",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 0,
+          "endPos": 4
+        }
+      ]
+    },
+    {
+      "text": "please cancel",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "please stop",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "popular movies",
+      "intent": "PopularMovies",
+      "entities": []
+    },
+    {
+      "text": "popular new releases",
+      "intent": "PopularMovies",
+      "entities": []
+    },
+    {
+      "text": "portland",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 0,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "purchase movie tickets",
+      "intent": "MovieTickets.Book",
+      "entities": []
+    },
+    {
+      "text": "quit",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "review",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "reviews",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "romance genre",
+      "intent": "RomanceMovies",
+      "entities": []
+    },
+    {
+      "text": "romantic movies",
+      "intent": "RomanceMovies",
+      "entities": []
+    },
+    {
+      "text": "scary movies",
+      "intent": "HorrorMovies",
+      "entities": []
+    },
+    {
+      "text": "seattle is my current city",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 0,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "see trailer",
+      "intent": "Trailer",
+      "entities": []
+    },
+    {
+      "text": "shangai",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 0,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "shooting movies",
+      "intent": "ActionMovies",
+      "entities": []
+    },
+    {
+      "text": "show action movies",
+      "intent": "ActionMovies",
+      "entities": []
+    },
+    {
+      "text": "show comedy movies",
+      "intent": "ComedyMovies",
+      "entities": []
+    },
+    {
+      "text": "show family movies",
+      "intent": "FamilyMovies",
+      "entities": []
+    },
+    {
+      "text": "show genres",
+      "intent": "MovieGenres",
+      "entities": []
+    },
+    {
+      "text": "show horror movies",
+      "intent": "HorrorMovies",
+      "entities": []
+    },
+    {
+      "text": "show kids movies",
+      "intent": "FamilyMovies",
+      "entities": []
+    },
+    {
+      "text": "show me popular movies",
+      "intent": "PopularMovies",
+      "entities": []
+    },
+    {
+      "text": "show me trailers",
+      "intent": "Trailer",
+      "entities": []
+    },
+    {
+      "text": "show movie genres",
+      "intent": "MovieGenres",
+      "entities": []
+    },
+    {
+      "text": "show movie times",
+      "intent": "MovieTimes",
+      "entities": []
+    },
+    {
+      "text": "show new releases",
+      "intent": "UpcomingMovies",
+      "entities": []
+    },
+    {
+      "text": "show reviews",
+      "intent": "MovieID",
+      "entities": []
+    },
+    {
+      "text": "show romance movies",
+      "intent": "RomanceMovies",
+      "entities": []
+    },
+    {
+      "text": "show romances",
+      "intent": "RomanceMovies",
+      "entities": []
+    },
+    {
+      "text": "spaghetti",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "stop",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "time",
+      "intent": "MovieTimes",
+      "entities": []
+    },
+    {
+      "text": "times",
+      "intent": "MovieTimes",
+      "entities": []
+    },
+    {
+      "text": "tony is my name",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 0,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "toronto",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 0,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "trailer",
+      "intent": "Trailer",
+      "entities": []
+    },
+    {
+      "text": "upcoming movies",
+      "intent": "UpcomingMovies",
+      "entities": []
+    },
+    {
+      "text": "view movies",
+      "intent": "NewMovies",
+      "entities": []
+    },
+    {
+      "text": "view new movies",
+      "intent": "NewMovies",
+      "entities": []
+    },
+    {
+      "text": "vishwac is my name",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 0,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "war movies",
+      "intent": "ActionMovies",
+      "entities": []
+    },
+    {
+      "text": "watch a trailer",
+      "intent": "Trailer",
+      "entities": []
+    },
+    {
+      "text": "watch movies",
+      "intent": "NewMovies",
+      "entities": []
+    },
+    {
+      "text": "watch new movies",
+      "intent": "NewMovies",
+      "entities": []
+    },
+    {
+      "text": "watch trailers",
+      "intent": "Trailer",
+      "entities": []
+    },
+    {
+      "text": "what are your capabilities",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "what can i say",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "what can you do",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "what can you help me with",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "what do i do now",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "what kids movies are on",
+      "intent": "FamilyMovies",
+      "entities": []
+    },
+    {
+      "text": "what movies are available",
+      "intent": "NewMovies",
+      "entities": []
+    },
+    {
+      "text": "what movies are popular",
+      "intent": "PopularMovies",
+      "entities": []
+    },
+    {
+      "text": "what movies do you have",
+      "intent": "NewMovies",
+      "entities": []
+    },
+    {
+      "text": "what tickets are still available at cinemark",
+      "intent": "MovieTickets.Book",
+      "entities": []
+    },
+    {
+      "text": "what time",
+      "intent": "MovieTimes",
+      "entities": []
+    },
+    {
+      "text": "what times are movies on",
+      "intent": "MovieTimes",
+      "entities": []
+    },
+    {
+      "text": "whats up",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "what's your age?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what's your name",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "who am i speaking to",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "who am i speaking with",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "who are you",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "who is your boss?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "why doesn't this work",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "world wide pants",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "yo",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "you are boring",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "you can assume i live in cairo",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 25,
+          "endPos": 29
+        }
+      ]
+    },
+    {
+      "text": "you can call me steve",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 16,
+          "endPos": 20
+        }
+      ]
+    }
+  ],
+  "settings": []
+}

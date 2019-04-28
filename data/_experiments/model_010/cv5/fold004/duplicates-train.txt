@@ -1,0 +1,10 @@
+Utterance	Intents
+what can you do	l_MovieBot2-82b0, q_CinemaSampleKB
+what's your name	l_MovieBot2-82b0, q_CinemaSampleKB
+cook me something	l_MovieBot2-82b0, q_CinemaSampleKB
+can you fly	l_MovieBot2-82b0, q_CinemaSampleKB
+hi	l_MovieBot2-82b0, q_CinemaSampleKB
+what's your age	l_MovieBot2-82b0, q_CinemaSampleKB
+how are you	l_MovieBot2-82b0, q_CinemaSampleKB
+how are you today	l_MovieBot2-82b0, q_CinemaSampleKB
+getting tired of you	l_MovieBot2-82b0, q_CinemaSampleKB

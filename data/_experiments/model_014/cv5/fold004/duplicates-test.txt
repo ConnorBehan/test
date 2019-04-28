@@ -1,0 +1,4 @@
+Utterance	Intents
+what's your age	l_MovieBot2-82b0, q_CinemaSampleKB
+i don't understand	l_MovieBot2-82b0, q_CinemaSampleKB
+cook me something	l_MovieBot2-82b0, q_CinemaSampleKB

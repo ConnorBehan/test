@@ -1,0 +1,156 @@
+Label	Weight	Text
+l_BasicBotLuisApplication	21.83333	help me
+l_BasicBotLuisApplication	21.83333	i'm lauren, and i'm from madrid
+l_BasicBotLuisApplication	21.83333	change temperature to seventy two degrees
+l_BasicBotLuisApplication	21.83333	hiya
+l_BasicBotLuisApplication	21.83333	stop
+l_BasicBotLuisApplication	21.83333	can you find movie tickets
+l_BasicBotLuisApplication	21.83333	book for me amc tickets
+l_BasicBotLuisApplication	21.83333	can you fly
+l_BasicBotLuisApplication	21.83333	i'm from georgia
+l_BasicBotLuisApplication	21.83333	purchase movie tickets
+l_BasicBotLuisApplication	21.83333	hello bot
+l_BasicBotLuisApplication	21.83333	make some coffee
+l_BasicBotLuisApplication	21.83333	why doesn't this work
+l_BasicBotLuisApplication	21.83333	i don't understand
+l_BasicBotLuisApplication	21.83333	melanie
+l_BasicBotLuisApplication	21.83333	set lights out bedroom
+l_BasicBotLuisApplication	21.83333	turn thermostat on 70 .
+l_BasicBotLuisApplication	21.83333	my name is tom
+l_BasicBotLuisApplication	21.83333	i'm stuck
+l_BasicBotLuisApplication	21.83333	what can you help me with
+l_BasicBotLuisApplication	21.83333	help please
+l_BasicBotLuisApplication	21.83333	tony is my name
+l_BasicBotLuisApplication	21.83333	i'm bailing
+l_BasicBotLuisApplication	21.83333	how do i interact with you
+q_CinemaSampleKB	4	Here I am
+q_CinemaSampleKB	4	How long ago were you born
+q_CinemaSampleKB	4	Talk to you later
+q_CinemaSampleKB	4	That was a stupid answer
+q_CinemaSampleKB	4	Cook me something
+q_CinemaSampleKB	4	Yes, that's true
+q_CinemaSampleKB	4	What's your favorite food
+q_CinemaSampleKB	4	Hug me
+q_CinemaSampleKB	4	I'm so sleepy
+q_CinemaSampleKB	4	Are you bisexual
+q_CinemaSampleKB	4	What do you think about Alexa
+q_CinemaSampleKB	4	Inaccurate
+q_CinemaSampleKB	4	Are you friends with other bots
+q_CinemaSampleKB	4	Are you male
+q_CinemaSampleKB	4	Do you hate me
+q_CinemaSampleKB	4	Who is your father
+q_CinemaSampleKB	4	Later alligator
+q_CinemaSampleKB	4	Where are you
+q_CinemaSampleKB	4	Do you smell
+q_CinemaSampleKB	4	What do you think about love
+q_CinemaSampleKB	4	Are you a robot
+q_CinemaSampleKB	4	Talk with me
+q_CinemaSampleKB	4	Why are you so boring
+q_CinemaSampleKB	4	Do you have a brother
+q_CinemaSampleKB	4	What time do you open at/stay open until
+q_CinemaSampleKB	4	Do you think I look good
+q_CinemaSampleKB	4	Are you awesome
+q_CinemaSampleKB	4	Do you get tired
+q_CinemaSampleKB	4	What makes you think so
+q_CinemaSampleKB	4	Where's your house
+q_CinemaSampleKB	4	Are you a lesbian
+q_CinemaSampleKB	4	Awesome
+q_CinemaSampleKB	4	I'm from there
+q_CinemaSampleKB	4	Try to make some sense
+q_CinemaSampleKB	4	Do you know the meaning of life
+q_CinemaSampleKB	4	Are you a fan of tech
+q_CinemaSampleKB	4	Do you know any tunes
+q_CinemaSampleKB	4	Do you have a mom
+q_CinemaSampleKB	4	Do you know Google
+q_CinemaSampleKB	4	Night
+q_CinemaSampleKB	4	Tell me a different joke.
+q_CinemaSampleKB	4	Nobody cares about me
+q_CinemaSampleKB	4	Do you know any other jokes
+q_CinemaSampleKB	4	Can you play sports
+q_CinemaSampleKB	4	Where do you come from
+q_CinemaSampleKB	4	Can you count to a million
+q_CinemaSampleKB	4	Be funny
+q_CinemaSampleKB	4	Are you available
+q_CinemaSampleKB	4	I am alone
+q_CinemaSampleKB	4	Hello Siri
+q_CinemaSampleKB	4	That was funny
+q_CinemaSampleKB	4	LOL
+q_CinemaSampleKB	4	Bingo
+q_CinemaSampleKB	4	I am going on a run
+q_CinemaSampleKB	4	I'm in love
+q_CinemaSampleKB	4	What's your purpose
+q_CinemaSampleKB	4	Do you have a boyfriend
+q_CinemaSampleKB	4	Should I try out for soccer
+q_CinemaSampleKB	4	Can I take coffee/beer/wine into the screen
+q_CinemaSampleKB	4	Where'd you come from
+q_CinemaSampleKB	4	Are you pansexual
+q_CinemaSampleKB	4	What's your gender
+q_CinemaSampleKB	4	I am doing that
+q_CinemaSampleKB	4	Can you fly
+q_CinemaSampleKB	4	Not true
+q_CinemaSampleKB	4	What state are you from
+q_CinemaSampleKB	4	I want to lay down
+q_CinemaSampleKB	4	Are you a girl or a boy
+q_CinemaSampleKB	4	Where do you live
+q_CinemaSampleKB	4	Do you take credit cards
+q_CinemaSampleKB	4	Are you married
+q_CinemaSampleKB	4	What do you even mean by that
+q_CinemaSampleKB	4	How high can you count
+q_CinemaSampleKB	4	Are you male or female
+q_CinemaSampleKB	4	Aren't you chipper
+q_CinemaSampleKB	4	Where did you come from
+q_CinemaSampleKB	4	I am angry
+q_CinemaSampleKB	4	You're fired!
+q_CinemaSampleKB	4	Are you my friend
+q_CinemaSampleKB	4	What do you want to know about me
+q_CinemaSampleKB	4	You are stupid
+q_CinemaSampleKB	4	Be quiet
+q_CinemaSampleKB	4	I want to go shopping
+q_CinemaSampleKB	4	I am annoyed
+q_CinemaSampleKB	4	I'm really sad
+q_CinemaSampleKB	4	Hi Google
+q_CinemaSampleKB	4	What country are you from
+q_CinemaSampleKB	4	Basic af
+q_CinemaSampleKB	4	What are you doing tomorrow
+q_CinemaSampleKB	4	Do you sing
+q_CinemaSampleKB	4	What do you like to eat
+q_CinemaSampleKB	4	I'm so glad to meet you
+q_CinemaSampleKB	4	How high can you jump
+q_CinemaSampleKB	4	Don't you get hungry
+q_CinemaSampleKB	4	Who am I
+q_CinemaSampleKB	4	Love you!
+q_CinemaSampleKB	4	Good night to you
+q_CinemaSampleKB	4	You're so stupid
+q_CinemaSampleKB	4	That's hilarious
+q_CinemaSampleKB	4	Do you know Cortana
+q_CinemaSampleKB	4	Human or robot
+q_CinemaSampleKB	4	Do you think I should ask him out
+q_CinemaSampleKB	4	Do you ever get hungry
+q_CinemaSampleKB	4	Do you want to rule the world
+q_CinemaSampleKB	4	Is there a deal with the Queen Street car-park for Light House Cinema patrons
+q_CinemaSampleKB	4	Can you chat with me
+q_CinemaSampleKB	4	When were you born
+q_CinemaSampleKB	4	Who owns you
+q_CinemaSampleKB	4	You're way off
+q_CinemaSampleKB	4	Do you like Alexa
+q_CinemaSampleKB	4	Happy Halloween!
+q_CinemaSampleKB	4	Be silly
+q_CinemaSampleKB	4	That's not accurate
+q_CinemaSampleKB	4	I have 7 cats
+q_CinemaSampleKB	4	Yes
+q_CinemaSampleKB	4	Kthx
+q_CinemaSampleKB	4	Will you be my wife
+q_CinemaSampleKB	4	I didn't mean that
+q_CinemaSampleKB	4	BFFs forever
+q_CinemaSampleKB	4	I want to eat something
+q_CinemaSampleKB	4	What were you doing yesterday
+q_CinemaSampleKB	4	Hello Google
+q_CinemaSampleKB	4	Who do you love
+q_CinemaSampleKB	4	You're wonderful
+q_CinemaSampleKB	4	Good evening
+q_CinemaSampleKB	4	Am I good-looking
+q_CinemaSampleKB	4	Do you think you're smarter than me
+q_CinemaSampleKB	4	Do you have a sister
+q_CinemaSampleKB	4	Are you real
+q_CinemaSampleKB	4	It's really nice to meet you
+q_CinemaSampleKB	4	Are you queer

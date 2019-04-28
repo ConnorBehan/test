@@ -1,0 +1,38 @@
+{
+  "authoringRegion": "westeurope",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "services": [
+    {
+      "appId": "1364079c-5ea1-4087-8a52-b3bf6a0721de",
+      "authoringKey": "76fbbcc29aab42b6bd6f514675d8c946",
+      "subscriptionKey": "76fbbcc29aab42b6bd6f514675d8c946",
+      "version": "0.1",
+      "region": "westeurope",
+      "type": "luis",
+      "name": "MovieBot2-82b0",
+      "id": "5"
+    },
+    {
+      "kbId": "048d3db5-b855-4eaa-8d66-4806850b2243",
+      "subscriptionKey": "78fad990b2bd4bb3b8d6c35ac2ef8bab",
+      "hostname": "https://cinemasamplekb.azurewebsites.net/qnamaker",
+      "endpointKey": "9441cf01-bd67-4152-8500-fe840e05082e",
+      "type": "qna",
+      "name": "CinemaSampleKB",
+      "id": "117"
+    }
+  ],
+  "serviceIds": [
+    "5",
+    "117"
+  ],
+  "appId": "2bf3f699-b262-4dc3-a93f-e1927efbe4fa",
+  "authoringKey": "76fbbcc29aab42b6bd6f514675d8c946",
+  "subscriptionKey": "6dd3cbd67f3048bc9742b7516a83ddff",
+  "version": "Dispatch",
+  "region": "westeurope",
+  "type": "dispatch",
+  "name": "MovieBot2Dispatch"
+}

@@ -1,0 +1,12 @@
+Utterance	Intents
+can you fly	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+good morning	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+who are you	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+what's your age	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+how are you	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+what can you do	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+do you play games	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+what's your name	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+i don't understand	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+getting tired of you	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+how are you today	l_l_BasicBotLuisApplication, q_CinemaSampleKB

@@ -1,0 +1,2 @@
+Utterance	Intents
+cook me something	l_BasicBotLuisApplication, q_CinemaSampleKB

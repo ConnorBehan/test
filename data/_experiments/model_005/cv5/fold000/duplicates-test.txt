@@ -1,0 +1,2 @@
+Utterance	Intents
+do you play games	l_BasicBotLuisApplication, q_CinemaSampleKB

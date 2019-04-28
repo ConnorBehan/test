@@ -1,0 +1,16 @@
+Utterance	Intents
+what can you help me with	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+how old are you	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+are you old	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+hello	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+are you busy	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+can you fly	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+good evening	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+hi	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+who are you	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+hiya	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+what's your age	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+how are you	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+what's your name	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+i don't understand	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+getting tired of you	l_l_BasicBotLuisApplication, q_CinemaSampleKB

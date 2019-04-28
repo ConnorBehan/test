@@ -1,0 +1,3 @@
+Utterance	Intents
+what can you do	l_l_BasicBotLuisApplication, q_CinemaSampleKB
+how are you today	l_l_BasicBotLuisApplication, q_CinemaSampleKB

@@ -1,0 +1,36 @@
+C:\Users\conor\Desktop\MovieBot\bin\Debug\netcoreapp2.0\MovieBot2.bot
+C:\Users\conor\Desktop\MovieBot\bin\Debug\netcoreapp2.0\BasicBot.deps.json
+C:\Users\conor\Desktop\MovieBot\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.json
+C:\Users\conor\Desktop\MovieBot\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.dev.json
+C:\Users\conor\Desktop\MovieBot\bin\Debug\netcoreapp2.0\BasicBot.dll
+C:\Users\conor\Desktop\MovieBot\bin\Debug\netcoreapp2.0\BasicBot.pdb
+C:\Users\conor\Desktop\MovieBot\obj\Debug\netcoreapp2.0\BasicBot.csprojAssemblyReference.cache
+C:\Users\conor\Desktop\MovieBot\obj\Debug\netcoreapp2.0\BasicBot.csproj.CoreCompileInputs.cache
+C:\Users\conor\Desktop\MovieBot\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfoInputs.cache
+C:\Users\conor\Desktop\MovieBot\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfo.cs
+C:\Users\conor\Desktop\MovieBot\obj\Debug\netcoreapp2.0\BasicBot.dll
+C:\Users\conor\Desktop\MovieBot\obj\Debug\netcoreapp2.0\BasicBot.pdb
+C:\Users\conor\Desktop\MovieBot - Copy\bin\Debug\netcoreapp2.0\MovieBot2.bot
+C:\Users\conor\Desktop\MovieBot - Copy\bin\Debug\netcoreapp2.0\BasicBot.deps.json
+C:\Users\conor\Desktop\MovieBot - Copy\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.json
+C:\Users\conor\Desktop\MovieBot - Copy\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.dev.json
+C:\Users\conor\Desktop\MovieBot - Copy\bin\Debug\netcoreapp2.0\BasicBot.dll
+C:\Users\conor\Desktop\MovieBot - Copy\bin\Debug\netcoreapp2.0\BasicBot.pdb
+C:\Users\conor\Desktop\MovieBot - Copy\obj\Debug\netcoreapp2.0\BasicBot.csprojAssemblyReference.cache
+C:\Users\conor\Desktop\MovieBot - Copy\obj\Debug\netcoreapp2.0\BasicBot.csproj.CoreCompileInputs.cache
+C:\Users\conor\Desktop\MovieBot - Copy\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfoInputs.cache
+C:\Users\conor\Desktop\MovieBot - Copy\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfo.cs
+C:\Users\conor\Desktop\MovieBot - Copy\obj\Debug\netcoreapp2.0\BasicBot.dll
+C:\Users\conor\Desktop\MovieBot - Copy\obj\Debug\netcoreapp2.0\BasicBot.pdb
+C:\Users\conor\Desktop\CinemaBot\bin\Debug\netcoreapp2.0\MovieBot2.bot
+C:\Users\conor\Desktop\CinemaBot\bin\Debug\netcoreapp2.0\BasicBot.deps.json
+C:\Users\conor\Desktop\CinemaBot\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.json
+C:\Users\conor\Desktop\CinemaBot\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.dev.json
+C:\Users\conor\Desktop\CinemaBot\bin\Debug\netcoreapp2.0\BasicBot.dll
+C:\Users\conor\Desktop\CinemaBot\bin\Debug\netcoreapp2.0\BasicBot.pdb
+C:\Users\conor\Desktop\CinemaBot\obj\Debug\netcoreapp2.0\BasicBot.csprojAssemblyReference.cache
+C:\Users\conor\Desktop\CinemaBot\obj\Debug\netcoreapp2.0\BasicBot.csproj.CoreCompileInputs.cache
+C:\Users\conor\Desktop\CinemaBot\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfoInputs.cache
+C:\Users\conor\Desktop\CinemaBot\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfo.cs
+C:\Users\conor\Desktop\CinemaBot\obj\Debug\netcoreapp2.0\BasicBot.dll
+C:\Users\conor\Desktop\CinemaBot\obj\Debug\netcoreapp2.0\BasicBot.pdb

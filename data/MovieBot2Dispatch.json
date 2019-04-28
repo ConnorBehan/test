@@ -1,0 +1,87 @@
+{
+  "luis_schema_version": "3.1.0",
+  "versionId": "Dispatch",
+  "name": "MovieBot2Dispatch",
+  "desc": "Dispatch model for MovieBot2Dispatch",
+  "culture": "en-us",
+  "intents": [],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [
+    {
+      "name": "userLocation_patternAny",
+      "explicitList": [],
+      "roles": []
+    },
+    {
+      "name": "userName_patternAny",
+      "explicitList": [],
+      "roles": []
+    }
+  ],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [
+    {
+      "pattern": "{userName_patternAny} is my name",
+      "intent": "l_MovieBot2-82b0"
+    },
+    {
+      "pattern": "i live in {userLocation_patternAny}",
+      "intent": "l_MovieBot2-82b0"
+    },
+    {
+      "pattern": "my name is {userName_patternAny}",
+      "intent": "l_MovieBot2-82b0"
+    },
+    {
+      "pattern": "{userName_patternAny}.",
+      "intent": "l_MovieBot2-82b0"
+    },
+    {
+      "pattern": "my name is {userName_patternAny} and i'm from {userLocation_patternAny}",
+      "intent": "l_MovieBot2-82b0"
+    },
+    {
+      "pattern": "some people call me {userName_patternAny}",
+      "intent": "l_MovieBot2-82b0"
+    },
+    {
+      "pattern": "{userLocation_patternAny} is where i live",
+      "intent": "l_MovieBot2-82b0"
+    },
+    {
+      "pattern": "call me {userName_patternAny}",
+      "intent": "l_MovieBot2-82b0"
+    },
+    {
+      "pattern": "i'm {userName_patternAny}[,] [and i'm] from {userLocation_patternAny}",
+      "intent": "l_MovieBot2-82b0"
+    },
+    {
+      "pattern": "i reside in {userLocation_patternAny}",
+      "intent": "l_MovieBot2-82b0"
+    },
+    {
+      "pattern": "i'm from {userLocation_patternAny}",
+      "intent": "l_MovieBot2-82b0"
+    },
+    {
+      "pattern": "i'm {userName_patternAny}",
+      "intent": "l_MovieBot2-82b0"
+    },
+    {
+      "pattern": "you can assume i live in {userLocation_patternAny}",
+      "intent": "l_MovieBot2-82b0"
+    },
+    {
+      "pattern": "you can call me {userName_patternAny}",
+      "intent": "l_MovieBot2-82b0"
+    }
+  ],
+  "utterances": [],
+  "settings": []
+}

@@ -1,0 +1,169 @@
+Label	Weight	Text
+l_MovieBot2-82b0	11.34783	quit
+l_MovieBot2-82b0	11.34783	don't do that
+l_MovieBot2-82b0	11.34783	show horror movies
+l_MovieBot2-82b0	11.34783	i'm bailing
+l_MovieBot2-82b0	11.34783	can you fly
+l_MovieBot2-82b0	11.34783	available movies
+l_MovieBot2-82b0	11.34783	i reside in san francisco
+l_MovieBot2-82b0	11.34783	you are boring
+l_MovieBot2-82b0	11.34783	how do i interact with you
+l_MovieBot2-82b0	11.34783	book movie ticket near my location
+l_MovieBot2-82b0	11.34783	movie genre
+l_MovieBot2-82b0	11.34783	yo
+l_MovieBot2-82b0	11.34783	frustrated
+l_MovieBot2-82b0	11.34783	help
+l_MovieBot2-82b0	11.34783	show reviews
+l_MovieBot2-82b0	11.34783	help me
+l_MovieBot2-82b0	11.34783	show kids movies
+l_MovieBot2-82b0	11.34783	portland
+l_MovieBot2-82b0	11.34783	book me a ticket for jurassic world
+l_MovieBot2-82b0	11.34783	watch trailers
+l_MovieBot2-82b0	11.34783	why doesn't this work
+l_MovieBot2-82b0	11.34783	what tickets are still available at cinemark
+l_MovieBot2-82b0	11.34783	no way
+l_MovieBot2-82b0	11.34783	time
+l_MovieBot2-82b0	11.34783	hi
+l_MovieBot2-82b0	11.34783	what movies do you have
+l_MovieBot2-82b0	11.34783	book amc theater pekin tickets
+l_MovieBot2-82b0	113.4783	cinema id: 10181
+l_MovieBot2-82b0	11.34783	show comedy movies
+l_MovieBot2-82b0	11.34783	who am i speaking to
+l_MovieBot2-82b0	11.34783	shooting movies
+l_MovieBot2-82b0	11.34783	i'm not going to tell you where i live
+l_MovieBot2-82b0	11.34783	are you busy
+l_MovieBot2-82b0	11.34783	how are you
+l_MovieBot2-82b0	11.34783	new movie
+l_MovieBot2-82b0	11.34783	movies that have just been released
+l_MovieBot2-82b0	11.34783	show me popular movies
+q_CinemaSampleKB	3.984733	Be ridiculous
+q_CinemaSampleKB	3.984733	Who am I
+q_CinemaSampleKB	3.984733	I just want to go to sleep
+q_CinemaSampleKB	3.984733	Who do you love
+q_CinemaSampleKB	3.984733	Do you know my name
+q_CinemaSampleKB	3.984733	I'm so bored
+q_CinemaSampleKB	3.984733	It's my pleasure
+q_CinemaSampleKB	3.984733	How much more awesome can you get
+q_CinemaSampleKB	3.984733	Sorry about that
+q_CinemaSampleKB	3.984733	Do you have brothers
+q_CinemaSampleKB	3.984733	I love getting valentines
+q_CinemaSampleKB	3.984733	Will you be my wife
+q_CinemaSampleKB	3.984733	Thnx
+q_CinemaSampleKB	3.984733	Hi
+q_CinemaSampleKB	3.984733	How can you help me
+q_CinemaSampleKB	3.984733	What do you like to sing best
+q_CinemaSampleKB	3.984733	Where are you from
+q_CinemaSampleKB	3.984733	So tired
+q_CinemaSampleKB	3.984733	I like you
+q_CinemaSampleKB	3.984733	What can you help me with
+q_CinemaSampleKB	3.984733	That's true
+q_CinemaSampleKB	3.984733	I'm joyous
+q_CinemaSampleKB	3.984733	What are you doing
+q_CinemaSampleKB	3.984733	Kiss me
+q_CinemaSampleKB	3.984733	Can you talk to me
+q_CinemaSampleKB	3.984733	What do you want to know about me
+q_CinemaSampleKB	3.984733	I hate everything about you
+q_CinemaSampleKB	3.984733	Do you know other chatbots
+q_CinemaSampleKB	3.984733	Thank you
+q_CinemaSampleKB	3.984733	I'm in such a good mood
+q_CinemaSampleKB	3.984733	Are you smart
+q_CinemaSampleKB	3.984733	What were you doing yesterday
+q_CinemaSampleKB	3.984733	You are so not pretty
+q_CinemaSampleKB	3.984733	It's a pleasure to meet you
+q_CinemaSampleKB	3.984733	Do you know any jokes
+q_CinemaSampleKB	3.984733	I'm afraid I'm gonna have to let you go.
+q_CinemaSampleKB	3.984733	Say something ridiculous
+q_CinemaSampleKB	3.984733	Which baseball teams do you like
+q_CinemaSampleKB	3.984733	Why do you charge a booking fee
+q_CinemaSampleKB	3.984733	You're the worst
+q_CinemaSampleKB	3.984733	You're hilarious
+q_CinemaSampleKB	3.984733	Do you get tired
+q_CinemaSampleKB	3.984733	I wish I weren't so alone
+q_CinemaSampleKB	3.984733	Are you free
+q_CinemaSampleKB	3.984733	Do you prefer red or blue
+q_CinemaSampleKB	3.984733	Are you a fan of tech
+q_CinemaSampleKB	3.984733	people with disability
+q_CinemaSampleKB	3.984733	Do you have any other responses
+q_CinemaSampleKB	3.984733	Which one of us is smarter
+q_CinemaSampleKB	3.984733	What is up
+q_CinemaSampleKB	3.984733	Are you prettier than me
+q_CinemaSampleKB	3.984733	Can I take a baby into the cinema
+q_CinemaSampleKB	3.984733	What's your favorite activity
+q_CinemaSampleKB	3.984733	Do you want to rule the world
+q_CinemaSampleKB	3.984733	That made no sense
+q_CinemaSampleKB	3.984733	Are you friends with other bots
+q_CinemaSampleKB	3.984733	Can you hear me
+q_CinemaSampleKB	3.984733	Works for me
+q_CinemaSampleKB	3.984733	Do you and Cortana hang out
+q_CinemaSampleKB	3.984733	Who is your father
+q_CinemaSampleKB	3.984733	Do you like baseball
+q_CinemaSampleKB	3.984733	What's your name
+q_CinemaSampleKB	3.984733	Cool!
+q_CinemaSampleKB	3.984733	Do you have a sister
+q_CinemaSampleKB	3.984733	What should I call you
+q_CinemaSampleKB	3.984733	Having a good day
+q_CinemaSampleKB	3.984733	Do you know other digital agents
+q_CinemaSampleKB	3.984733	I want you to like me
+q_CinemaSampleKB	3.984733	Tell me how much you love me
+q_CinemaSampleKB	3.984733	You are the love of my life
+q_CinemaSampleKB	3.984733	Give me another joke
+q_CinemaSampleKB	3.984733	You are my favorite
+q_CinemaSampleKB	3.984733	I have 7 cats
+q_CinemaSampleKB	3.984733	Hello Alexa
+q_CinemaSampleKB	3.984733	Do you know Siri
+q_CinemaSampleKB	3.984733	Be quiet
+q_CinemaSampleKB	3.984733	Ask me anything
+q_CinemaSampleKB	3.984733	I adore you
+q_CinemaSampleKB	3.984733	I'm sorry
+q_CinemaSampleKB	3.984733	Where are you
+q_CinemaSampleKB	3.984733	What state are you in
+q_CinemaSampleKB	3.984733	Do you eat
+q_CinemaSampleKB	3.984733	LOL
+q_CinemaSampleKB	3.984733	What did you do today
+q_CinemaSampleKB	3.984733	What do you think about love
+q_CinemaSampleKB	3.984733	Why haven't I received an email confirming my booking
+q_CinemaSampleKB	3.984733	Are you human
+q_CinemaSampleKB	3.984733	Happy Halloween!
+q_CinemaSampleKB	3.984733	What color do you like
+q_CinemaSampleKB	3.984733	What's your gender
+q_CinemaSampleKB	3.984733	Who's your favorite team
+q_CinemaSampleKB	3.984733	Do you like Alexa
+q_CinemaSampleKB	3.984733	I'm pissed
+q_CinemaSampleKB	3.984733	That's not accurate
+q_CinemaSampleKB	3.984733	Good morning
+q_CinemaSampleKB	3.984733	I'm so mad
+q_CinemaSampleKB	3.984733	I'm just playing
+q_CinemaSampleKB	3.984733	Ask me a question
+q_CinemaSampleKB	3.984733	How do I find out more about a film
+q_CinemaSampleKB	3.984733	You're awful
+q_CinemaSampleKB	3.984733	Thank you so much
+q_CinemaSampleKB	3.984733	I feel sad
+q_CinemaSampleKB	3.984733	Hi Siri
+q_CinemaSampleKB	3.984733	You are useless
+q_CinemaSampleKB	3.984733	Not funny
+q_CinemaSampleKB	3.984733	How much are the tickets
+q_CinemaSampleKB	3.984733	You're lame
+q_CinemaSampleKB	3.984733	High five!
+q_CinemaSampleKB	3.984733	What's your opinion of me
+q_CinemaSampleKB	3.984733	Do you have sisters
+q_CinemaSampleKB	3.984733	Do I get a reserved seat
+q_CinemaSampleKB	3.984733	What do the different film classifications mean
+q_CinemaSampleKB	3.984733	What do you think of me
+q_CinemaSampleKB	3.984733	You're really boring
+q_CinemaSampleKB	3.984733	Who do you report to
+q_CinemaSampleKB	3.984733	Who's your mom
+q_CinemaSampleKB	3.984733	What kinds of things can you do
+q_CinemaSampleKB	3.984733	BRB
+q_CinemaSampleKB	3.984733	Are you my fan
+q_CinemaSampleKB	3.984733	Are you asexual
+q_CinemaSampleKB	3.984733	Do you play games
+q_CinemaSampleKB	3.984733	Do you get hungry
+q_CinemaSampleKB	3.984733	You're not answering my question
+q_CinemaSampleKB	3.984733	Fist bump!
+q_CinemaSampleKB	3.984733	I'm in love
+q_CinemaSampleKB	3.984733	What's your purpose
+q_CinemaSampleKB	3.984733	Do you have a boyfriend
+q_CinemaSampleKB	3.984733	Give me a kiss
+q_CinemaSampleKB	3.984733	You're such a sweetheart
+q_CinemaSampleKB	3.984733	I'm into it
+q_CinemaSampleKB	3.984733	That's not funny

@@ -1,0 +1,213 @@
+
+abort
+action genre
+action movies
+are you busy
+are you old
+available movies
+book amc theater pekin tickets
+book for me amc tickets
+book me a ticket for jurassic world
+book movie ticket near my location
+book tickets for captain america
+call me scott
+can i see movies that are popular
+can you find movie tickets
+can you fly
+can you help me
+cancel
+childrens movies
+cinema id: 10181
+cinema id: 10585
+cinema id: 10698
+cinema id: 7513
+cinema id: 9352
+cinema id: 9690
+cinema id: 9691
+cinema id: 9694
+cinema id: 9696
+cinema id: 9698
+comedies
+comedy genre
+comedy movies
+confused
+cook me something
+dan
+delhi
+dhaka
+do you play games
+don't do it
+don't do that
+dont you ever sleep
+family genre
+family movies
+fighting movies
+frustrated
+funny movies
+genre action
+genre comedy
+genre family
+genre for action movies
+genre for horror movies
+genre horror
+genre romance
+genres
+get tickets for expendables three
+getting tired of you
+gnocchi
+good evening
+good morning
+gun movies
+have you any dreams
+hello
+hello bot
+help
+help me
+help please
+her cat has no teeth
+hey
+hey there
+hi
+hi bot
+hiya
+horror genre
+horror movies
+how are you
+how are you today
+how do i interact with you
+how old are you
+i am tired of you
+i don't understand
+i live in london
+i reside in san francisco
+i want 3 tickets for life of pi
+i will not give you my location or name
+i will not give you my name
+i won't give you my name
+i would like to cancel
+i'd rather be riding my bike
+i'm bailing
+i'm from georgia
+i'm john from cairo
+i'm lauren, and i'm from madrid
+i'm lili
+i'm lost
+i'm not going to tell you where i live
+i'm stuck
+lost
+love genre
+love movies
+melanie
+moves that are funny
+movie genre
+movie genres
+movie id 166428
+movie id 287947
+movie id 299534
+movie id 299536
+movie id 299537
+movie id 324857
+movie id 329996
+movie id 411728
+movie id 424783
+movie id 450465
+movie id 456740
+movie id 458253
+movie id 458723
+movie id 464504
+movie id 485811
+movie id 495925
+movie id 522681
+movie id 543103
+movie id 543540
+movie id 920
+movie reviews
+movieid
+movieid:
+movies for kids
+movies that are comedy
+movies that are for families
+movies that are romance
+movies that are romantic
+movies that are scary
+movies that have just been released
+mumbai
+my location is new york
+my name is maria and i'm from sydney
+my name is tom
+new movie
+new releases
+no way
+no way, i won't give you my location
+paris
+please cancel
+please stop
+popular movies
+popular new releases
+portland
+purchase movie tickets
+quit
+review
+reviews
+romance genre
+romantic movies
+scary movies
+seattle is my current city
+see trailer
+shangai
+shooting movies
+show action movies
+show comedy movies
+show family movies
+show genres
+show horror movies
+show kids movies
+show me popular movies
+show me trailers
+show movie genres
+show movie times
+show new releases
+show reviews
+show romance movies
+show romances
+spaghetti
+stop
+time
+times
+tony is my name
+toronto
+trailer
+upcoming movies
+view movies
+view new movies
+vishwac is my name
+war movies
+watch a trailer
+watch movies
+watch new movies
+watch trailers
+what are your capabilities
+what can i say
+what can you do
+what can you help me with
+what do i do now
+what kids movies are on
+what movies are available
+what movies are popular
+what movies do you have
+what tickets are still available at cinemark
+what time
+what times are movies on
+whats up
+what's your age
+what's your name
+who am i speaking to
+who am i speaking with
+who are you
+who is your boss
+why doesn't this work
+world wide pants
+yo
+you are boring
+you can assume i live in cairo
+you can call me steve

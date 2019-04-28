@@ -1,0 +1,155 @@
+Label	Weight	Text
+l_BasicBotLuisApplication	21.58333	dan
+l_BasicBotLuisApplication	21.58333	what are your capabilities
+l_BasicBotLuisApplication	21.58333	can you find movie tickets
+l_BasicBotLuisApplication	21.58333	hello bot
+l_BasicBotLuisApplication	21.58333	can you fly
+l_BasicBotLuisApplication	21.58333	popular movies
+l_BasicBotLuisApplication	21.58333	you are boring
+l_BasicBotLuisApplication	21.58333	available movies
+l_BasicBotLuisApplication	21.58333	hey
+l_BasicBotLuisApplication	21.58333	help
+l_BasicBotLuisApplication	21.58333	i want 3 tickets for life of pi
+l_BasicBotLuisApplication	21.58333	watch trailers
+l_BasicBotLuisApplication	21.58333	have you any dreams
+l_BasicBotLuisApplication	21.58333	book amc theater pekin tickets
+l_BasicBotLuisApplication	21.58333	book tickets for captain america
+l_BasicBotLuisApplication	21.58333	are you busy
+l_BasicBotLuisApplication	21.58333	how are you today
+l_BasicBotLuisApplication	21.58333	no way, i won't give you my location
+l_BasicBotLuisApplication	21.58333	show me popular movies
+l_BasicBotLuisApplication	21.58333	are you old
+l_BasicBotLuisApplication	21.58333	what movies do you have
+l_BasicBotLuisApplication	21.58333	how old are you
+l_BasicBotLuisApplication	21.58333	purchase movie tickets
+l_BasicBotLuisApplication	21.58333	popular new releases
+q_CinemaSampleKB	3.984615	What happens once I've booked
+q_CinemaSampleKB	3.984615	Are you a fan of country music
+q_CinemaSampleKB	3.984615	I'm afraid I'm gonna have to let you go.
+q_CinemaSampleKB	3.984615	Thank you
+q_CinemaSampleKB	3.984615	Are you there
+q_CinemaSampleKB	3.984615	Do I get a reserved seat
+q_CinemaSampleKB	3.984615	You seem really happy
+q_CinemaSampleKB	3.984615	I adore you
+q_CinemaSampleKB	3.984615	Do you know who I am
+q_CinemaSampleKB	3.984615	Chat with me
+q_CinemaSampleKB	3.984615	Are you really happy
+q_CinemaSampleKB	3.984615	Can you chat with me
+q_CinemaSampleKB	3.984615	Have a good night
+q_CinemaSampleKB	3.984615	You're so funny
+q_CinemaSampleKB	3.984615	You face sucks
+q_CinemaSampleKB	3.984615	Do you ever sing
+q_CinemaSampleKB	3.984615	Works for me
+q_CinemaSampleKB	3.984615	Cook me something
+q_CinemaSampleKB	3.984615	Are you married
+q_CinemaSampleKB	3.984615	Great!
+q_CinemaSampleKB	3.984615	You're the best
+q_CinemaSampleKB	3.984615	I am happy
+q_CinemaSampleKB	3.984615	What do you eat
+q_CinemaSampleKB	3.984615	I'm furious
+q_CinemaSampleKB	3.984615	You are funny :)
+q_CinemaSampleKB	3.984615	When will you shut up
+q_CinemaSampleKB	3.984615	You are now unemployed
+q_CinemaSampleKB	3.984615	Give me another joke
+q_CinemaSampleKB	3.984615	What should I do
+q_CinemaSampleKB	3.984615	Who owns you
+q_CinemaSampleKB	3.984615	Do you think I should ask her out
+q_CinemaSampleKB	3.984615	Can't you change your answers
+q_CinemaSampleKB	3.984615	You're so boring
+q_CinemaSampleKB	3.984615	Do you have brothers
+q_CinemaSampleKB	3.984615	I wish I weren't so alone
+q_CinemaSampleKB	3.984615	Who do you love
+q_CinemaSampleKB	3.984615	Tell me a dirty joke
+q_CinemaSampleKB	3.984615	Good morning
+q_CinemaSampleKB	3.984615	You're gonna be unemployed soon
+q_CinemaSampleKB	3.984615	That doesn't make sense
+q_CinemaSampleKB	3.984615	Who made you
+q_CinemaSampleKB	3.984615	Do you spend time in your garden
+q_CinemaSampleKB	3.984615	BFFs forever
+q_CinemaSampleKB	3.984615	Do you have a girlfriend
+q_CinemaSampleKB	3.984615	How can you help me
+q_CinemaSampleKB	3.984615	Testing 1 2 3
+q_CinemaSampleKB	3.984615	Are you friends with other bots
+q_CinemaSampleKB	3.984615	Do you know me
+q_CinemaSampleKB	3.984615	Fist bump!
+q_CinemaSampleKB	3.984615	I am here
+q_CinemaSampleKB	3.984615	Haha
+q_CinemaSampleKB	3.984615	Is this thing on
+q_CinemaSampleKB	3.984615	Sorry about that
+q_CinemaSampleKB	3.984615	Hum a tune
+q_CinemaSampleKB	3.984615	Tell me a joke
+q_CinemaSampleKB	3.984615	Hold on a sec
+q_CinemaSampleKB	3.984615	Are you male
+q_CinemaSampleKB	3.984615	Where are you from
+q_CinemaSampleKB	3.984615	Do you have a sister
+q_CinemaSampleKB	3.984615	How do I find out more about a film
+q_CinemaSampleKB	3.984615	What do you want to know about me
+q_CinemaSampleKB	3.984615	Don't you get hungry
+q_CinemaSampleKB	3.984615	I'd like to take you out on a date
+q_CinemaSampleKB	3.984615	How are you
+q_CinemaSampleKB	3.984615	Am I good-looking
+q_CinemaSampleKB	3.984615	You made no sense
+q_CinemaSampleKB	3.984615	What do you mean
+q_CinemaSampleKB	3.984615	Are you bisexual
+q_CinemaSampleKB	3.984615	Can we be friends
+q_CinemaSampleKB	3.984615	Who are you
+q_CinemaSampleKB	3.984615	Do you know Siri
+q_CinemaSampleKB	3.984615	That was right
+q_CinemaSampleKB	3.984615	What is up
+q_CinemaSampleKB	3.984615	I wish you would say something else
+q_CinemaSampleKB	3.984615	Merry Christmas
+q_CinemaSampleKB	3.984615	Shush!
+q_CinemaSampleKB	3.984615	Where do you live
+q_CinemaSampleKB	3.984615	You're funny
+q_CinemaSampleKB	3.984615	I am a Democrat
+q_CinemaSampleKB	3.984615	Nighty night
+q_CinemaSampleKB	3.984615	Are you Skynet
+q_CinemaSampleKB	3.984615	I miss you so much!
+q_CinemaSampleKB	3.984615	What are your policies towards the disabled
+q_CinemaSampleKB	3.984615	Are you young
+q_CinemaSampleKB	3.984615	What do you like to eat
+q_CinemaSampleKB	3.984615	What's your gender
+q_CinemaSampleKB	3.984615	What kinds of things can you do
+q_CinemaSampleKB	3.984615	Can you fly
+q_CinemaSampleKB	3.984615	Useless
+q_CinemaSampleKB	3.984615	You're fired!
+q_CinemaSampleKB	3.984615	Do you think you're smarter than me
+q_CinemaSampleKB	3.984615	Do you have a family
+q_CinemaSampleKB	3.984615	Do you like Cortana
+q_CinemaSampleKB	3.984615	Where do you come from
+q_CinemaSampleKB	3.984615	You're so smart
+q_CinemaSampleKB	3.984615	How's your day going
+q_CinemaSampleKB	3.984615	Are you hungry
+q_CinemaSampleKB	3.984615	Give me a kiss
+q_CinemaSampleKB	3.984615	Do you sweat
+q_CinemaSampleKB	3.984615	Where are you
+q_CinemaSampleKB	3.984615	I'm bored out of my mind
+q_CinemaSampleKB	3.984615	Nice to meet you
+q_CinemaSampleKB	3.984615	What's your favorite animal
+q_CinemaSampleKB	3.984615	Hi Google
+q_CinemaSampleKB	3.984615	You are useless
+q_CinemaSampleKB	3.984615	What do you like to sing best
+q_CinemaSampleKB	3.984615	Will you be my wife
+q_CinemaSampleKB	3.984615	Do you like Siri
+q_CinemaSampleKB	3.984615	Thank you so much
+q_CinemaSampleKB	3.984615	You're so stupid
+q_CinemaSampleKB	3.984615	Be more fun
+q_CinemaSampleKB	3.984615	I appreciate it
+q_CinemaSampleKB	3.984615	You're smart
+q_CinemaSampleKB	3.984615	Why do you think that
+q_CinemaSampleKB	3.984615	Who created you
+q_CinemaSampleKB	3.984615	I am tired
+q_CinemaSampleKB	3.984615	You are a genius!
+q_CinemaSampleKB	3.984615	Who is your mother
+q_CinemaSampleKB	3.984615	Can you sing
+q_CinemaSampleKB	3.984615	I'm a fan
+q_CinemaSampleKB	3.984615	Why are you so boring
+q_CinemaSampleKB	3.984615	Are you a girl or a boy
+q_CinemaSampleKB	3.984615	It's a pleasure to meet you
+q_CinemaSampleKB	3.984615	How are things
+q_CinemaSampleKB	3.984615	Are you prettier than me
+q_CinemaSampleKB	3.984615	You're lame
+q_CinemaSampleKB	3.984615	Are you real or fake
+q_CinemaSampleKB	3.984615	Say a joke
+q_CinemaSampleKB	3.984615	Everything you told me was false
+q_CinemaSampleKB	3.984615	What's your age

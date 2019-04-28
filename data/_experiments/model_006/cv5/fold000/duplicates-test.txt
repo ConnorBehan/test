@@ -1,0 +1,2 @@
+Utterance	Intents
+can you fly	l_BasicBotLuisApplication, q_CinemaSampleKB

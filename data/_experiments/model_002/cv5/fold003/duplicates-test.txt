@@ -1,0 +1,2 @@
+Utterance	Intents
+hi	l_BasicBotLuisApplication, q_CinemaSampleKB

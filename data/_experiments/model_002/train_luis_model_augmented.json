@@ -1,0 +1,3840 @@
+{
+  "luis_schema_version": "3.1.0",
+  "versionId": "Dispatch",
+  "name": "MovieBot2Dispatch",
+  "desc": "Dispatch model for MovieBot2Dispatch",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "l_BasicBotLuisApplication"
+    },
+    {
+      "name": "q_CinemaSampleKB"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [
+    {
+      "name": "userLocation_patternAny",
+      "explicitList": [],
+      "roles": []
+    },
+    {
+      "name": "userName_patternAny",
+      "explicitList": [],
+      "roles": []
+    }
+  ],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [
+    {
+      "pattern": "{userName_patternAny} is my name",
+      "intent": "l_BasicBotLuisApplication"
+    },
+    {
+      "pattern": "i live in {userLocation_patternAny}",
+      "intent": "l_BasicBotLuisApplication"
+    },
+    {
+      "pattern": "my name is {userName_patternAny}",
+      "intent": "l_BasicBotLuisApplication"
+    },
+    {
+      "pattern": "{userName_patternAny}.",
+      "intent": "l_BasicBotLuisApplication"
+    },
+    {
+      "pattern": "my name is {userName_patternAny} and i'm from {userLocation_patternAny}",
+      "intent": "l_BasicBotLuisApplication"
+    },
+    {
+      "pattern": "some people call me {userName_patternAny}",
+      "intent": "l_BasicBotLuisApplication"
+    },
+    {
+      "pattern": "{userLocation_patternAny} is where i live",
+      "intent": "l_BasicBotLuisApplication"
+    },
+    {
+      "pattern": "call me {userName_patternAny}",
+      "intent": "l_BasicBotLuisApplication"
+    },
+    {
+      "pattern": "i'm {userName_patternAny}[,] [and i'm] from {userLocation_patternAny}",
+      "intent": "l_BasicBotLuisApplication"
+    },
+    {
+      "pattern": "i reside in {userLocation_patternAny}",
+      "intent": "l_BasicBotLuisApplication"
+    },
+    {
+      "pattern": "i'm from {userLocation_patternAny}",
+      "intent": "l_BasicBotLuisApplication"
+    },
+    {
+      "pattern": "i'm {userName_patternAny}",
+      "intent": "l_BasicBotLuisApplication"
+    },
+    {
+      "pattern": "you can assume i live in {userLocation_patternAny}",
+      "intent": "l_BasicBotLuisApplication"
+    },
+    {
+      "pattern": "you can call me {userName_patternAny}",
+      "intent": "l_BasicBotLuisApplication"
+    }
+  ],
+  "utterances": [
+    {
+      "text": "quit",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "why doesn't this work",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "toronto",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "lost",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "make camera 1 off please",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i'm bailing",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "dont you ever sleep",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "gnocchi",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "shut down my work computer",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "mumbai",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "book tickets for captain america",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "have you any dreams",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "what's your name",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "what tickets are still available at cinemark",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "confused",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "good evening",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "melanie",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "turn thermostat on 70 .",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "how are you today",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "help me",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i want 3 tickets for life of pi",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "who am i speaking to",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "portland",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "turn dimmer off",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "dan",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "book movie ticket near my location",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "what can i say",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "hey there",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "yo",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "can you find movie tickets",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "living room lamps off please",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "paris",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "my name is maria and i'm from sydney",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i would like to cancel",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "who am i speaking with",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "are you old",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "silence the phone",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i won't give you my name",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "cook me something",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "call me scott",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "help please",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i'd rather be riding my bike",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "what's your age",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "what can you help me with",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i will not give you my name",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i'm stuck",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "stop",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i'm lauren, and i'm from madrid",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "you can assume i live in cairo",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "play dvd",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "no way, i won't give you my location",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "living room lamp on please",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "book amc theater pekin tickets",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "don't do it",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "hiya",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "set lights out bedroom",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "delhi",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "how are you",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i reside in san francisco",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "you are boring",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "book me a ticket for jurassic world",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "how old are you",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "don't do that",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "vishwac is my name",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "help",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i am tired of you",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i'm lost",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "spaghetti",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "seattle is my current city",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "get tickets for expendables three",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "set lights bright",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "turn off venice lamp",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "what can you do",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "make some coffee",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i live in london",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i'm not going to tell you where i live",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "change temperature to seventy two degrees",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "what are your capabilities",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "please cancel",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "shangai",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "getting tired of you",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i'm from georgia",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "her cat has no teeth",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "illuminate please",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "can you help me",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "do you play games",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "hey",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "world wide pants",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "lock the doors for me please",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "frustrated",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "my name is tom",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i will not give you my location or name",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "who is your boss",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i'm john from cairo",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "fish pond off please",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "are you busy",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "turn off ac please",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "hi bot",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "hello bot",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "fish pond on please",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "turn the fan to high",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "please stop",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "you can call me steve",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "can you fly",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "no way",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i'm lili",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "who are you",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "i don't understand",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "coffee bar on please",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "book for me amc tickets",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "how do i interact with you",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "what do i do now",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "tony is my name",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "purchase movie tickets",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "abort",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "dhaka",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "good morning",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "my location is new york",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "cancel",
+      "intent": "l_BasicBotLuisApplication",
+      "entities": []
+    },
+    {
+      "text": "do you know who i am",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what color do you like",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm so lonely",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what did you do yesterday",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you young",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can you sing a song",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "yes, that's true",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you think about alexa",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i love you.",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who made you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "aren't you chipper",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you get hungry",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "hum a tune",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how high can you jump",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "give me a joke",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "bffs forever",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who owns you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have siblings",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "later alligator",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you suck",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "basic af",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "haha",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can you read my mind",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "nice to meet you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "good night to you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how's your day",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "hello siri",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you married",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how smart are you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that made no sense",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're welcome",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i am bored",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's your gender",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm so sleepy",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "nobody cares about me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that's not funny",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "why are you so boring",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "sorry about that",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "where do you come from",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "hello cortana",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're so happy",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're the best",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "say something funny",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i want to eat something",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "human or robot",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you a boy",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you could not be more boring",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm so mad",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i think you're swell",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you think dragons are cool",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'd like to take you out on a date",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's going on",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i am tall",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you happy",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you in love with me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how are things",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have a life partner",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you in a relationship",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you made no sense",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i missed you!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have a boyfriend",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can you talk to me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you eat",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you really happy",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "give me a high five",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "be ridiculous",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you go by",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're wonderful",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm furious",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that was correct",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you available",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you a person",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm in love",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you smell",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you are stupid",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i have 7 cats",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "brb",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "why haven't i received an email confirming my booking",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what other bots do you know",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who do you report to",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "rofl",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "why don't you ever stop talking",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who is your father",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm giving you a pink slip",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you and cortana hang out",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you believe in love",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm so hungry",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite animal",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "have you met cortana",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that doesn't make sense",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "shush!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "where should i go on vacation",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i wish i could hug you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i am here",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how intelligent are you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "happy birthday!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "why do you hate me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can you sing",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you smart",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "there",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you bore me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's your boss' name",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that's inaccurate",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you here",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "which one of us is smarter",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're dumb",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "will you marry me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm cracking up",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i hate you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i don't get it",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you like apples",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm despondent",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you are the love of my life",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that's not accurate",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you like to sing best",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "sing something",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you friends with other bots",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you like to eat",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what were you doing yesterday",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can you ask me a question",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i need a hug",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can you sneeze",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you prefer red or blue",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you know any tunes",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you are fired",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what state are you from",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm so sorry",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "sry",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "should i try out for soccer",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that was a joke",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're no fun",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you are so bad at this",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what are you doing",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i want to lay down",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i want to lie down",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how beautiful am i",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's the meaning of life",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're funny",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "nobody likes me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you do",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's your job",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you a man or a woman",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm not following",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "am i a fool",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can you chat with me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who is your creator",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you attempting world domination",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "good evening to you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i love my family",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "cool!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you think about bots",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you trans",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm full of sadness",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "oops, sorry",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you like my hat",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm tired of you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what should i do",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "yes to that",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you pansexual",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "chat with me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "tell me a pirate joke",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how long ago were you born",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what is love",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "tell a joke",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "be silly",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you think you're smarter than me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you a fan of tech",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "just kidding",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you like cortana",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you like siri",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what other jokes can you tell",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm from there",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how much are the tickets",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're so basic",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm ticked off",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you are awesome!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "here's a kiss for you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "it's a pleasure to meet you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "am i good-looking",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you know other bots",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm so glad to meet you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite movie",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "your face is ugly",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have a mom",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who do you love",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can we chat",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what happens once i've booked",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm really sad",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "yes",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you are so not pretty",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that's accurate",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're right.",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do i get a reserved seat",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you think about me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "it's my pleasure",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's your mom's name",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're so boring",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you know any jokes",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "tell me a science joke",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i miss you so much!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite color",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "so tired",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how's your day going",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what kinds of things can you do",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "where are you located",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "sing a song",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're so stupid",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how are you doing",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "say something ridiculous",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i adore you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i need a kiss",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that's right",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you are so annoying!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i like you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who's your favorite singer",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "should i get a new job",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "don't you ever sleep",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i hate everything about you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you honestly could not be more uninteresting",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite song",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's the name of your boss",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you asexual",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm tired",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you must hate me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "aren't you cheerful",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you don't know anything",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have a girlfriend",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you a woman",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you a man",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i will be back",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "nope, false",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "say something stupid",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you there",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's your purpose",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "which one of us is more beautiful",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite activity",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "where did you come from",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i didn't mean that",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm so sad",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "hi google",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "my sincere thanks",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you free",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "hi siri",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you hate me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i just want to go to sleep",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have a brother",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you like alexa",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you can't work for me anymore",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that's not true",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're gonna be unemployed soon",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you my friend",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "yup, that's true",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're hilarious",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "it's really nice to meet you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what age are you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm so bored",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you sing",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who's your dad",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you like baseball",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're fired!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "awesome",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i wish you just go away.",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you think about technology",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you around",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you look ugly",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you sweat",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what is wrong with you!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "don't you get hungry",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you smarter than me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i am tired",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "no, that's not true",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have any other responses",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you know any other jokes",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "back in a minute",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you know other digital agents",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i despise you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm pissed",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's up",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "will you post my tickets to me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can you make me a sandwich",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "so sorry",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "hello google",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you think about cortana",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you hungry",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have a family",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "have you ever sung a song",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you think about siri",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you are now unemployed",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "thank you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "aren't you awesome",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you a fan of alexa",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "inaccurate",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're very intelligent",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i appreciate it",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have brothers",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you know alexa",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you know the meaning of life",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you skynet",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what are you doing right now",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "excuse me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do i look okay",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have a husband",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're the worst",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what are you doing later",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're not making sense",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you mean",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what are you up to",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how do you feel about working late",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "when do you send out the weekly film times email",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do i look good in blue",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "where's your house",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you real or fake",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "till we meet again",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're such a sweetheart",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "bye",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm bored out of my mind",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i can't think of anything i want to do",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're so cool",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "bingo",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that's so wrong",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that was a stupid answer",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who created you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "happy hannukah",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you know me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who's smarter, me or you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "night",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you know siri",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i love getting valentines",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "accurate",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i am not your friend",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "nighty night",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you think about ai",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "tell me a dirty joke",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "merry christmas",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're rad",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "here i am",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're smart",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that's awesome",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that wasn't funny",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm afraid i'm gonna have to let you go.",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "why do you think that",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're awful",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "hold on a sec",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you think i should ask her out",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you love anyone",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you a girl",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you my fan",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you the singularity",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm your biggest fan",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you mean by that",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "ask me something",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "say a joke",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're way off",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i feel so great",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you dream",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "where are you from",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "try to make some sense",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's new",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "go away",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "good night",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i miss you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "sounds good",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "yup",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that wasn't true",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you are useless",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "not true",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you are a genius!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "talk with me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you prettier than me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what is up",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have a dad",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "hug me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "talk to you later",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you a girl or a boy",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm a fan",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm sad today",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can i take a baby into the cinema",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "hi there!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "evening",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you better looking than me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "look at how smart you are",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's happening",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite food",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can we be friends",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you love me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "life is good",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can i buy a monthly/annual pass",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're stupid",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "lol",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i thank you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you male or female",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i love new york",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i am happy",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what makes you think that",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you want to rule the world",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "fist bump!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "useless",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can you hear me now",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "why is that",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you ever get hungry",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i am a republican",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "excuse moi",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "say something",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can i have a hug",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "thank you so much",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're useless",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what kind of candy do you like",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's your dad's name",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you are my favorite",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's wrong with you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can you hear me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you real",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you seem really happy",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how much do you love me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "give me a fist bump",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "season's greetings!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "kthx",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you a fan of country music",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you keep saying the same thing all the time",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i want to spend the rest of my life with you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "tell me how much you love me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you are so unfunny",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "quiet, you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're not answering my question",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "great!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have a sister",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i can drive a car",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "everything you told me was false",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "why do you charge a booking fee",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you seem really smart",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i want you to be my husband",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you hal",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "hi alexa",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "heya",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm famished",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "pardon",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're so funny",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you intelligent",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're nice!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "see you later",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you know other chatbots",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you bisexual",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm just playing",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "morning",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what country are you from",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "will you be my best friend",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "pardon me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i want to be your friend.",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "give me a kiss",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you even mean by that",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you awesome",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "shut up",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "sing a tune",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have boogers",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how much more awesome can you get",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you not like me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what makes you think so",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who's your daddy",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm sorry",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you gay",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "hi cortana",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what are your policies towards the disabled",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you dumb",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "will you be my wife",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can you sleep",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "why not",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "why do you say the same thing all the time",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that's hilarious",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "having a good day",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "zip it!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you my imaginary friend",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what is the answer to the universe",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you know any songs",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "tell me another joke.",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how can you help me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm in love with you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm into it",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "kiss me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i am annoyed",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i love music",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you a robot",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "which baseball teams do you like",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "say a silly thing",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what should i call you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how do i look today",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you like me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "be funny",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "there's nothing to do",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you are no longer employed",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "am i a good person",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i think you're so pretty",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you think i look good",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i am a democrat",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you a guy",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you are funny :)",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "joke's on you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who's prettier, me or you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you know cortana",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're such a smarty-pants",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can you say anything else",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "correct",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "be quiet",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're lame",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you female",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i want you to like me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's your opinion of me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you ever sing",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "give me another joke",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "where are you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that was right",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i think you hate me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "omg sorry",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you think about love",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "ask me a question",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm starving",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you get tired",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who's your mom",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "later",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "ask me anything",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how do i find out more about a film",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "when will you shut up",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm in such a good mood",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who's your master",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "happy halloween!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm joyous",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can you count to a million",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you eat",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you my assistant",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what country are you in",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "testing",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "tell me a joke",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm just kidding around",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "love you!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that's true",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you are my best friend",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "have a good night",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you engaged",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "not funny",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i am doing that",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "go to hell",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "ha",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you human",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "is this thing on",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how high can you count",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "why",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "say something dumb",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who am i",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm ready for bed",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "which people made you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i am hungry",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i am going on a run",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "goodbye",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "tell me a different joke.",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "works for me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're really boring",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're really smart",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i am alone",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can you play sports",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "testing 1 2 3",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i am angry",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "talk to me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "be my friend",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm an engineer",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i beg your pardon",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "be more fun",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm all tuckered out",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have a wife",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you seem happy",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "hahaha",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you know my name",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "that was funny",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how i've missed you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how happy are you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm feeling blue",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you dating anyone",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you’re ugly",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what's my name",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what kind of food do you like",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you a lesbian",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "thanks",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "where'd you come from",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're so smart",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "false",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "stop talking",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "high five!",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who's your favorite team",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i hope you like me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who's your boss",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you think of me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "hello alexa",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "how was your day",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm lonely",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i think you're dreamy",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you queer",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "yes, that's right",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i want to go shopping",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you like computers",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i feel sad",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you don't interest me at all",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "when were you born",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "why can’t i book more than a week in advance",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what state are you in",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what did you do today",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you think i should ask him out",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're boring",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you straight",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "who is your mother",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i want to marry you.",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i'm chewing gum right now",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "are you male",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "thnx",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what are you",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have sisters",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "am i pretty",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "can't you change your answers",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what are you doing tomorrow",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i wish you would say something else",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you face sucks",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you have a name",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i got a new haircut",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "you're not funny",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do the different film classifications mean",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "what do you want to know about me",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you spend time in your garden",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "where do you live",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "do you know google",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i wish i weren't so alone",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    },
+    {
+      "text": "i think you're great",
+      "intent": "q_CinemaSampleKB",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

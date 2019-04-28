@@ -1,0 +1,3 @@
+Utterance	Intents
+are you old	l_BasicBotLuisApplication, q_CinemaSampleKB
+what's your age	l_BasicBotLuisApplication, q_CinemaSampleKB

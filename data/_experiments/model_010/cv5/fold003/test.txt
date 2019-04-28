@@ -1,0 +1,163 @@
+Label	Weight	Text
+l_MovieBot2-82b0	16.1875	genre for horror movies
+l_MovieBot2-82b0	16.1875	what times are movies on
+l_MovieBot2-82b0	16.1875	don't do that
+l_MovieBot2-82b0	16.1875	you can call me steve
+l_MovieBot2-82b0	16.1875	what time
+l_MovieBot2-82b0	16.1875	show family movies
+l_MovieBot2-82b0	16.1875	do you play games
+l_MovieBot2-82b0	16.1875	see trailer
+l_MovieBot2-82b0	16.1875	show horror movies
+l_MovieBot2-82b0	16.1875	how are you
+l_MovieBot2-82b0	16.1875	delhi
+l_MovieBot2-82b0	16.1875	action movies
+l_MovieBot2-82b0	16.1875	i am tired of you
+l_MovieBot2-82b0	16.1875	i will not give you my location or name
+l_MovieBot2-82b0	16.1875	world wide pants
+l_MovieBot2-82b0	16.1875	melanie
+l_MovieBot2-82b0	16.1875	i reside in san francisco
+l_MovieBot2-82b0	16.1875	comedy genre
+l_MovieBot2-82b0	16.1875	seattle is my current city
+l_MovieBot2-82b0	16.1875	portland
+l_MovieBot2-82b0	16.1875	new releases
+l_MovieBot2-82b0	16.1875	you are boring
+l_MovieBot2-82b0	16.1875	genre comedy
+l_MovieBot2-82b0	16.1875	book me a ticket for jurassic world
+l_MovieBot2-82b0	16.1875	dan
+l_MovieBot2-82b0	16.1875	view movies
+l_MovieBot2-82b0	16.1875	romance genre
+l_MovieBot2-82b0	16.1875	her cat has no teeth
+l_MovieBot2-82b0	16.1875	please cancel
+l_MovieBot2-82b0	16.1875	what movies are available
+l_MovieBot2-82b0	16.1875	popular movies
+l_MovieBot2-82b0	16.1875	horror movies
+q_CinemaSampleKB	3.984615	What do you like to eat
+q_CinemaSampleKB	3.984615	That doesn't make sense
+q_CinemaSampleKB	3.984615	I thank you
+q_CinemaSampleKB	3.984615	What's your favorite activity
+q_CinemaSampleKB	3.984615	Are you smarter than me
+q_CinemaSampleKB	3.984615	What do you think about Siri
+q_CinemaSampleKB	3.984615	Go to hell
+q_CinemaSampleKB	3.984615	I am going on a run
+q_CinemaSampleKB	3.984615	Ha
+q_CinemaSampleKB	3.984615	You're such a sweetheart
+q_CinemaSampleKB	3.984615	Why haven't I received an email confirming my booking
+q_CinemaSampleKB	3.984615	BRB
+q_CinemaSampleKB	3.984615	I'm feeling blue
+q_CinemaSampleKB	3.984615	I am not your friend
+q_CinemaSampleKB	3.984615	I like you
+q_CinemaSampleKB	3.984615	I'm famished
+q_CinemaSampleKB	3.984615	What's your age
+q_CinemaSampleKB	3.984615	You made no sense
+q_CinemaSampleKB	3.984615	Merry Christmas
+q_CinemaSampleKB	3.984615	Do you like Alexa
+q_CinemaSampleKB	3.984615	Why are you so boring
+q_CinemaSampleKB	3.984615	Am I a good person
+q_CinemaSampleKB	3.984615	So sorry
+q_CinemaSampleKB	3.984615	I'm despondent
+q_CinemaSampleKB	3.984615	What do you even mean by that
+q_CinemaSampleKB	3.984615	I'm afraid I'm gonna have to let you go.
+q_CinemaSampleKB	3.984615	Which people made you
+q_CinemaSampleKB	3.984615	I think you're swell
+q_CinemaSampleKB	3.984615	Are you Skynet
+q_CinemaSampleKB	3.984615	Are you female
+q_CinemaSampleKB	3.984615	You're really smart
+q_CinemaSampleKB	3.984615	What's new
+q_CinemaSampleKB	3.984615	Nobody likes me
+q_CinemaSampleKB	3.984615	What's your dad's name
+q_CinemaSampleKB	3.984615	What do you mean by that
+q_CinemaSampleKB	3.984615	Who do you love
+q_CinemaSampleKB	3.984615	So tired
+q_CinemaSampleKB	3.984615	Give me a kiss
+q_CinemaSampleKB	3.984615	That's right
+q_CinemaSampleKB	3.984615	I'm lonely
+q_CinemaSampleKB	3.984615	I'm from there
+q_CinemaSampleKB	3.984615	Can you sleep
+q_CinemaSampleKB	3.984615	Are you around
+q_CinemaSampleKB	3.984615	Yup, that's true
+q_CinemaSampleKB	3.984615	You're right.
+q_CinemaSampleKB	3.984615	I'm tired
+q_CinemaSampleKB	3.984615	You are stupid
+q_CinemaSampleKB	3.984615	You keep saying the same thing all the time
+q_CinemaSampleKB	3.984615	FALSE
+q_CinemaSampleKB	3.984615	I'm giving you a pink slip
+q_CinemaSampleKB	3.984615	You're not answering my question
+q_CinemaSampleKB	3.984615	what are the ages
+q_CinemaSampleKB	3.984615	I miss you
+q_CinemaSampleKB	3.984615	Fist bump!
+q_CinemaSampleKB	3.984615	Do you know Siri
+q_CinemaSampleKB	3.984615	Can you chat with me
+q_CinemaSampleKB	3.984615	Do you know Google
+q_CinemaSampleKB	3.984615	Do you have a wife
+q_CinemaSampleKB	3.984615	You're such a smarty-pants
+q_CinemaSampleKB	3.984615	What's your name
+q_CinemaSampleKB	3.984615	Are you married
+q_CinemaSampleKB	3.984615	What's your favorite food
+q_CinemaSampleKB	3.984615	I want you to like me
+q_CinemaSampleKB	3.984615	You are so annoying!
+q_CinemaSampleKB	3.984615	Do you have any other responses
+q_CinemaSampleKB	3.984615	How much more awesome can you get
+q_CinemaSampleKB	3.984615	That made no sense
+q_CinemaSampleKB	3.984615	BFFs forever
+q_CinemaSampleKB	3.984615	Give me a joke
+q_CinemaSampleKB	3.984615	Accurate
+q_CinemaSampleKB	3.984615	Sorry about that
+q_CinemaSampleKB	3.984615	What do the different film classifications mean
+q_CinemaSampleKB	3.984615	Are you prettier than me
+q_CinemaSampleKB	3.984615	Where should I go on vacation
+q_CinemaSampleKB	3.984615	Excuse moi
+q_CinemaSampleKB	3.984615	I didn't mean that
+q_CinemaSampleKB	3.984615	You're really boring
+q_CinemaSampleKB	3.984615	I am tired
+q_CinemaSampleKB	3.984615	You seem happy
+q_CinemaSampleKB	3.984615	I'm starving
+q_CinemaSampleKB	3.984615	What should I call you
+q_CinemaSampleKB	3.984615	I want to lie down
+q_CinemaSampleKB	3.984615	High five!
+q_CinemaSampleKB	3.984615	You don't interest me at all
+q_CinemaSampleKB	3.984615	You're so funny
+q_CinemaSampleKB	3.984615	Say something dumb
+q_CinemaSampleKB	3.984615	Are you trans
+q_CinemaSampleKB	3.984615	Who owns you
+q_CinemaSampleKB	3.984615	Look at how smart you are
+q_CinemaSampleKB	3.984615	I think you're great
+q_CinemaSampleKB	3.984615	Are you intelligent
+q_CinemaSampleKB	3.984615	Happy Hannukah
+q_CinemaSampleKB	3.984615	What are your policies towards the disabled
+q_CinemaSampleKB	3.984615	Do you have a life partner
+q_CinemaSampleKB	3.984615	Who is your creator
+q_CinemaSampleKB	3.984615	Are you smart
+q_CinemaSampleKB	3.984615	I am doing that
+q_CinemaSampleKB	3.984615	You could not be more boring
+q_CinemaSampleKB	3.984615	I hate you
+q_CinemaSampleKB	3.984615	Haha
+q_CinemaSampleKB	3.984615	Useless
+q_CinemaSampleKB	3.984615	What are you doing later
+q_CinemaSampleKB	3.984615	Are you in love with me
+q_CinemaSampleKB	3.984615	That was funny
+q_CinemaSampleKB	3.984615	Who is your father
+q_CinemaSampleKB	3.984615	Tell a joke
+q_CinemaSampleKB	3.984615	Do you have a name
+q_CinemaSampleKB	3.984615	Don't you ever sleep
+q_CinemaSampleKB	3.984615	Kiss me
+q_CinemaSampleKB	3.984615	Why don't you ever stop talking
+q_CinemaSampleKB	3.984615	Hello Cortana
+q_CinemaSampleKB	3.984615	I feel so great
+q_CinemaSampleKB	3.984615	I love music
+q_CinemaSampleKB	3.984615	Are you awesome
+q_CinemaSampleKB	3.984615	Can you ask me a question
+q_CinemaSampleKB	3.984615	Do you ever get hungry
+q_CinemaSampleKB	3.984615	Are you available
+q_CinemaSampleKB	3.984615	I'm chewing gum right now
+q_CinemaSampleKB	3.984615	I'm a fan
+q_CinemaSampleKB	3.984615	I don't understand
+q_CinemaSampleKB	3.984615	What's your mom's name
+q_CinemaSampleKB	3.984615	What other jokes can you tell
+q_CinemaSampleKB	3.984615	I can't think of anything I want to do
+q_CinemaSampleKB	3.984615	Cool!
+q_CinemaSampleKB	3.984615	Can you count to a million
+q_CinemaSampleKB	3.984615	What are you doing right now
+q_CinemaSampleKB	3.984615	What's your favorite animal
+q_CinemaSampleKB	3.984615	I'm an engineer
+q_CinemaSampleKB	3.984615	I feel sad
+q_CinemaSampleKB	3.984615	Are you happy

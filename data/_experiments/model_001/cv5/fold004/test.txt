@@ -1,0 +1,156 @@
+Label	Weight	Text
+l_BasicBotLuisApplication	21.83333	lock the doors for me please
+l_BasicBotLuisApplication	21.83333	vishwac is my name
+l_BasicBotLuisApplication	21.83333	hey
+l_BasicBotLuisApplication	21.83333	toronto
+l_BasicBotLuisApplication	21.83333	i'm lili
+l_BasicBotLuisApplication	21.83333	cook me something
+l_BasicBotLuisApplication	21.83333	paris
+l_BasicBotLuisApplication	21.83333	please stop
+l_BasicBotLuisApplication	21.83333	i live in london
+l_BasicBotLuisApplication	21.83333	fish pond on please
+l_BasicBotLuisApplication	21.83333	i won't give you my name
+l_BasicBotLuisApplication	21.83333	hi
+l_BasicBotLuisApplication	21.83333	book movie ticket near my location
+l_BasicBotLuisApplication	21.83333	i reside in san francisco
+l_BasicBotLuisApplication	21.83333	turn dimmer off
+l_BasicBotLuisApplication	21.83333	silence the phone
+l_BasicBotLuisApplication	21.83333	how are you today
+l_BasicBotLuisApplication	21.83333	cancel
+l_BasicBotLuisApplication	21.83333	dhaka
+l_BasicBotLuisApplication	21.83333	are you old
+l_BasicBotLuisApplication	21.83333	shangai
+l_BasicBotLuisApplication	21.83333	get tickets for expendables three
+l_BasicBotLuisApplication	21.83333	call me scott
+l_BasicBotLuisApplication	21.83333	what tickets are still available at cinemark
+q_CinemaSampleKB	4	Go to hell
+q_CinemaSampleKB	4	You're such a smarty-pants
+q_CinemaSampleKB	4	I love New York
+q_CinemaSampleKB	4	Are you my fan
+q_CinemaSampleKB	4	You can't work for me anymore
+q_CinemaSampleKB	4	Hi Siri
+q_CinemaSampleKB	4	What age are you
+q_CinemaSampleKB	4	Who is your mother
+q_CinemaSampleKB	4	Excuse me
+q_CinemaSampleKB	4	You're very intelligent
+q_CinemaSampleKB	4	You're useless
+q_CinemaSampleKB	4	Pardon
+q_CinemaSampleKB	4	Do you have a life partner
+q_CinemaSampleKB	4	Will you marry me
+q_CinemaSampleKB	4	How are you today
+q_CinemaSampleKB	4	Be my friend
+q_CinemaSampleKB	4	Do you eat
+q_CinemaSampleKB	4	I'm so sad
+q_CinemaSampleKB	4	Ask me something
+q_CinemaSampleKB	4	Happy Hannukah
+q_CinemaSampleKB	4	Do you know Alexa
+q_CinemaSampleKB	4	Who made you
+q_CinemaSampleKB	4	Are you old
+q_CinemaSampleKB	4	Zip it!
+q_CinemaSampleKB	4	Season's greetings!
+q_CinemaSampleKB	4	That's true
+q_CinemaSampleKB	4	Do you think dragons are cool
+q_CinemaSampleKB	4	What's wrong with you
+q_CinemaSampleKB	4	Ask me a question
+q_CinemaSampleKB	4	I wish you just go away.
+q_CinemaSampleKB	4	What's your name
+q_CinemaSampleKB	4	Do you sell gift vouchers
+q_CinemaSampleKB	4	I am happy
+q_CinemaSampleKB	4	Hi
+q_CinemaSampleKB	4	Life is good
+q_CinemaSampleKB	4	Do you know Siri
+q_CinemaSampleKB	4	Who's prettier, me or you
+q_CinemaSampleKB	4	I'm a fan
+q_CinemaSampleKB	4	Yes to that
+q_CinemaSampleKB	4	What do you like to sing best
+q_CinemaSampleKB	4	Good evening to you
+q_CinemaSampleKB	4	What other jokes can you tell
+q_CinemaSampleKB	4	FALSE
+q_CinemaSampleKB	4	What do you mean by that
+q_CinemaSampleKB	4	What kind of candy do you like
+q_CinemaSampleKB	4	What's your favorite color
+q_CinemaSampleKB	4	No, that's not true
+q_CinemaSampleKB	4	Can you sleep
+q_CinemaSampleKB	4	What's your favorite activity
+q_CinemaSampleKB	4	Do you have a girlfriend
+q_CinemaSampleKB	4	Yes, that's right
+q_CinemaSampleKB	4	Can you talk to me
+q_CinemaSampleKB	4	You are so annoying!
+q_CinemaSampleKB	4	How smart are you
+q_CinemaSampleKB	4	Are you really happy
+q_CinemaSampleKB	4	I am not your friend
+q_CinemaSampleKB	4	I don't understand
+q_CinemaSampleKB	4	Is this thing on
+q_CinemaSampleKB	4	What do you think about me
+q_CinemaSampleKB	4	I'm sorry
+q_CinemaSampleKB	4	High five!
+q_CinemaSampleKB	4	That was correct
+q_CinemaSampleKB	4	Are you young
+q_CinemaSampleKB	4	You're such a sweetheart
+q_CinemaSampleKB	4	You're really smart
+q_CinemaSampleKB	4	What should I call you
+q_CinemaSampleKB	4	I'm all tuckered out
+q_CinemaSampleKB	4	That's awesome
+q_CinemaSampleKB	4	Do you know other chatbots
+q_CinemaSampleKB	4	I feel so great
+q_CinemaSampleKB	4	Thnx
+q_CinemaSampleKB	4	Tell me a pirate joke
+q_CinemaSampleKB	4	Testing
+q_CinemaSampleKB	4	How do you feel about working late
+q_CinemaSampleKB	4	I love you.
+q_CinemaSampleKB	4	I'm starving
+q_CinemaSampleKB	4	Should I get a new job
+q_CinemaSampleKB	4	How old are you
+q_CinemaSampleKB	4	Do you have siblings
+q_CinemaSampleKB	4	Are you a woman
+q_CinemaSampleKB	4	Thank you so much
+q_CinemaSampleKB	4	Here's a kiss for you
+q_CinemaSampleKB	4	Who do you report to
+q_CinemaSampleKB	4	Give me another joke
+q_CinemaSampleKB	4	Are you human
+q_CinemaSampleKB	4	What's your age
+q_CinemaSampleKB	4	Are you a fan of country music
+q_CinemaSampleKB	4	I'm famished
+q_CinemaSampleKB	4	What's my name
+q_CinemaSampleKB	4	I love music
+q_CinemaSampleKB	4	I think you're great
+q_CinemaSampleKB	4	It's my pleasure
+q_CinemaSampleKB	4	You're right.
+q_CinemaSampleKB	4	Can you ask me a question
+q_CinemaSampleKB	4	I wish I could hug you
+q_CinemaSampleKB	4	Is the bar open downstairs
+q_CinemaSampleKB	4	What's your favorite song
+q_CinemaSampleKB	4	Why do some films not have a rating
+q_CinemaSampleKB	4	I'm an engineer
+q_CinemaSampleKB	4	Give me a fist bump
+q_CinemaSampleKB	4	I feel sad
+q_CinemaSampleKB	4	Are you attempting world domination
+q_CinemaSampleKB	4	Give me a kiss
+q_CinemaSampleKB	4	Am I a good person
+q_CinemaSampleKB	4	Who created you
+q_CinemaSampleKB	4	What do you think about Siri
+q_CinemaSampleKB	4	Are you a boy
+q_CinemaSampleKB	4	Do you like baseball
+q_CinemaSampleKB	4	You are awesome!
+q_CinemaSampleKB	4	I'm so bored
+q_CinemaSampleKB	4	Who's smarter, me or you
+q_CinemaSampleKB	4	Do you have a wife
+q_CinemaSampleKB	4	Hold on a sec
+q_CinemaSampleKB	4	I'm cracking up
+q_CinemaSampleKB	4	I hate everything about you
+q_CinemaSampleKB	4	I'm lonely
+q_CinemaSampleKB	4	I'm joyous
+q_CinemaSampleKB	4	What's your dad's name
+q_CinemaSampleKB	4	I'm so lonely
+q_CinemaSampleKB	4	What should I do
+q_CinemaSampleKB	4	You are so bad at this
+q_CinemaSampleKB	4	Do you know any jokes
+q_CinemaSampleKB	4	You are a genius!
+q_CinemaSampleKB	4	Can't you change your answers
+q_CinemaSampleKB	4	Are you HAL
+q_CinemaSampleKB	4	You are so not pretty
+q_CinemaSampleKB	4	Evening
+q_CinemaSampleKB	4	Are you smarter than me
+q_CinemaSampleKB	4	You're so funny
+q_CinemaSampleKB	4	Can I have a hug
+q_CinemaSampleKB	4	Do you have a husband

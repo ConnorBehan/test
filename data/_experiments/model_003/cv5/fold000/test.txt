@@ -1,0 +1,152 @@
+Label	Weight	Text
+l_BasicBotLuisApplication	24.66667	confused
+l_BasicBotLuisApplication	24.66667	my location is new york
+l_BasicBotLuisApplication	24.66667	dont you ever sleep
+l_BasicBotLuisApplication	24.66667	hi
+l_BasicBotLuisApplication	24.66667	i don't understand
+l_BasicBotLuisApplication	24.66667	how old are you
+l_BasicBotLuisApplication	24.66667	i'm stuck
+l_BasicBotLuisApplication	24.66667	stop
+l_BasicBotLuisApplication	24.66667	get tickets for expendables three
+l_BasicBotLuisApplication	24.66667	hey there
+l_BasicBotLuisApplication	24.66667	vishwac is my name
+l_BasicBotLuisApplication	24.66667	trailer
+l_BasicBotLuisApplication	24.66667	i reside in san francisco
+l_BasicBotLuisApplication	24.66667	i live in london
+l_BasicBotLuisApplication	24.66667	do you play games
+l_BasicBotLuisApplication	24.66667	how are you
+l_BasicBotLuisApplication	24.66667	spaghetti
+l_BasicBotLuisApplication	24.66667	you are boring
+l_BasicBotLuisApplication	24.66667	help
+l_BasicBotLuisApplication	24.66667	have you any dreams
+l_BasicBotLuisApplication	24.66667	lost
+q_CinemaSampleKB	3.984615	Are you here
+q_CinemaSampleKB	3.984615	Do you know who I am
+q_CinemaSampleKB	3.984615	I wish you would say something else
+q_CinemaSampleKB	3.984615	What do you go by
+q_CinemaSampleKB	3.984615	You seem really smart
+q_CinemaSampleKB	3.984615	Do you have a boyfriend
+q_CinemaSampleKB	3.984615	Have you met Cortana
+q_CinemaSampleKB	3.984615	What do you even mean by that
+q_CinemaSampleKB	3.984615	How happy are you
+q_CinemaSampleKB	3.984615	You're very intelligent
+q_CinemaSampleKB	3.984615	Yes, that's true
+q_CinemaSampleKB	3.984615	Are you trans
+q_CinemaSampleKB	3.984615	I'm from there
+q_CinemaSampleKB	3.984615	Do you play games
+q_CinemaSampleKB	3.984615	Yes, that's right
+q_CinemaSampleKB	3.984615	You're useless
+q_CinemaSampleKB	3.984615	Human or robot
+q_CinemaSampleKB	3.984615	Say something ridiculous
+q_CinemaSampleKB	3.984615	What age are you
+q_CinemaSampleKB	3.984615	Look at how smart you are
+q_CinemaSampleKB	3.984615	You're right.
+q_CinemaSampleKB	3.984615	Can you say anything else
+q_CinemaSampleKB	3.984615	Stop talking
+q_CinemaSampleKB	3.984615	What do you think about bots
+q_CinemaSampleKB	3.984615	I'm bored out of my mind
+q_CinemaSampleKB	3.984615	You're such a sweetheart
+q_CinemaSampleKB	3.984615	Nobody likes me
+q_CinemaSampleKB	3.984615	I'm so hungry
+q_CinemaSampleKB	3.984615	What should I do
+q_CinemaSampleKB	3.984615	Are you friends with other bots
+q_CinemaSampleKB	3.984615	What's your favorite song
+q_CinemaSampleKB	3.984615	Talk to me
+q_CinemaSampleKB	3.984615	Pardon
+q_CinemaSampleKB	3.984615	Do you think you're smarter than me
+q_CinemaSampleKB	3.984615	Fist bump!
+q_CinemaSampleKB	3.984615	Do you have a sister
+q_CinemaSampleKB	3.984615	I wish I weren't so alone
+q_CinemaSampleKB	3.984615	Do you know Google
+q_CinemaSampleKB	3.984615	You're so funny
+q_CinemaSampleKB	3.984615	What's your age
+q_CinemaSampleKB	3.984615	I'm just kidding around
+q_CinemaSampleKB	3.984615	Merry Christmas
+q_CinemaSampleKB	3.984615	Are you a woman
+q_CinemaSampleKB	3.984615	What kinds of things can you do
+q_CinemaSampleKB	3.984615	You are funny :)
+q_CinemaSampleKB	3.984615	Are you young
+q_CinemaSampleKB	3.984615	Kthx
+q_CinemaSampleKB	3.984615	What color do you like
+q_CinemaSampleKB	3.984615	Nice to meet you
+q_CinemaSampleKB	3.984615	Who's your favorite singer
+q_CinemaSampleKB	3.984615	You're smart
+q_CinemaSampleKB	3.984615	Do you eat
+q_CinemaSampleKB	3.984615	Give me a kiss
+q_CinemaSampleKB	3.984615	Works for me
+q_CinemaSampleKB	3.984615	Do you and Cortana hang out
+q_CinemaSampleKB	3.984615	That doesn't make sense
+q_CinemaSampleKB	3.984615	I appreciate it
+q_CinemaSampleKB	3.984615	Are you intelligent
+q_CinemaSampleKB	3.984615	Hug me
+q_CinemaSampleKB	3.984615	Do you ever get hungry
+q_CinemaSampleKB	3.984615	Do you dream
+q_CinemaSampleKB	3.984615	What do you eat
+q_CinemaSampleKB	3.984615	That was a stupid answer
+q_CinemaSampleKB	3.984615	I didn't mean that
+q_CinemaSampleKB	3.984615	Tell me a dirty joke
+q_CinemaSampleKB	3.984615	What's your favorite food
+q_CinemaSampleKB	3.984615	Are you a fan of country music
+q_CinemaSampleKB	3.984615	What makes you think that
+q_CinemaSampleKB	3.984615	Which baseball teams do you like
+q_CinemaSampleKB	3.984615	Say something dumb
+q_CinemaSampleKB	3.984615	Are you a boy
+q_CinemaSampleKB	3.984615	You're not making sense
+q_CinemaSampleKB	3.984615	I'm an engineer
+q_CinemaSampleKB	3.984615	What do you like to sing best
+q_CinemaSampleKB	3.984615	Do you have a mom
+q_CinemaSampleKB	3.984615	That was right
+q_CinemaSampleKB	3.984615	Hold on a sec
+q_CinemaSampleKB	3.984615	That's awesome
+q_CinemaSampleKB	3.984615	Who's your boss
+q_CinemaSampleKB	3.984615	Say something
+q_CinemaSampleKB	3.984615	Evening
+q_CinemaSampleKB	3.984615	What's happening
+q_CinemaSampleKB	3.984615	Do you know other bots
+q_CinemaSampleKB	3.984615	I beg your pardon
+q_CinemaSampleKB	3.984615	There's nothing to do
+q_CinemaSampleKB	3.984615	Tell me a science joke
+q_CinemaSampleKB	3.984615	I want to be your friend.
+q_CinemaSampleKB	3.984615	You're funny
+q_CinemaSampleKB	3.984615	Back in a minute
+q_CinemaSampleKB	3.984615	Can you sing a song
+q_CinemaSampleKB	3.984615	Give me a fist bump
+q_CinemaSampleKB	3.984615	Tell me how much you love me
+q_CinemaSampleKB	3.984615	Can you sleep
+q_CinemaSampleKB	3.984615	Are you a fan of tech
+q_CinemaSampleKB	3.984615	You're dumb
+q_CinemaSampleKB	3.984615	What do you mean by that
+q_CinemaSampleKB	3.984615	Aren't you chipper
+q_CinemaSampleKB	3.984615	Why haven't I received an email confirming my booking
+q_CinemaSampleKB	3.984615	I'm starving
+q_CinemaSampleKB	3.984615	Why do you charge a booking fee
+q_CinemaSampleKB	3.984615	What's your name
+q_CinemaSampleKB	3.984615	Say something funny
+q_CinemaSampleKB	3.984615	Where are you from
+q_CinemaSampleKB	3.984615	Hi
+q_CinemaSampleKB	3.984615	What's your favorite movie
+q_CinemaSampleKB	3.984615	Go to hell
+q_CinemaSampleKB	3.984615	I'm in love with you
+q_CinemaSampleKB	3.984615	Can't you change your answers
+q_CinemaSampleKB	3.984615	When do you send out the weekly film times email
+q_CinemaSampleKB	3.984615	FALSE
+q_CinemaSampleKB	3.984615	How intelligent are you
+q_CinemaSampleKB	3.984615	I want to lay down
+q_CinemaSampleKB	3.984615	How high can you count
+q_CinemaSampleKB	3.984615	Do you ever sing
+q_CinemaSampleKB	3.984615	What do you do
+q_CinemaSampleKB	3.984615	You bore me
+q_CinemaSampleKB	3.984615	Do you think I look good
+q_CinemaSampleKB	3.984615	Nobody cares about me
+q_CinemaSampleKB	3.984615	I am a Republican
+q_CinemaSampleKB	3.984615	What do you think about Siri
+q_CinemaSampleKB	3.984615	What are you
+q_CinemaSampleKB	3.984615	How are you today
+q_CinemaSampleKB	3.984615	Do you sweat
+q_CinemaSampleKB	3.984615	That wasn't funny
+q_CinemaSampleKB	3.984615	What state are you from
+q_CinemaSampleKB	3.984615	Who's your dad
+q_CinemaSampleKB	3.984615	Are you smarter than me
+q_CinemaSampleKB	3.984615	No, that's not true
+q_CinemaSampleKB	3.984615	Are you a man
+q_CinemaSampleKB	3.984615	I think you're dreamy

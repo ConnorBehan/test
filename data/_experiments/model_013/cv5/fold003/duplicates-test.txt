@@ -1,0 +1,4 @@
+Utterance	Intents
+how are you	l_MovieBot2-82b0, q_CinemaSampleKB
+good morning	l_MovieBot2-82b0, q_CinemaSampleKB
+hi	l_MovieBot2-82b0, q_CinemaSampleKB
